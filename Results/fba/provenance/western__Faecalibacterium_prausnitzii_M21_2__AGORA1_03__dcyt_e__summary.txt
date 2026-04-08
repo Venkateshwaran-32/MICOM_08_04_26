@@ -1,0 +1,26 @@
+Species: Faecalibacterium_prausnitzii_M21_2__AGORA1_03
+Diet: western
+Anchor metabolite: dcyt[e]
+Selected pathway: Nucleotide interconversion
+
+Top connector fluxes for the species:
+- h2o[e] (Water): secretion, flux=42.579705
+- h[e] (proton): uptake, flux=-34.958604
+- dcyt[e] (Deoxycytidine): uptake, flux=-10.053192
+- co2[e] (carbon dioxide): uptake, flux=-9.756613
+- asp_L[e] (L-aspartate(1-)): secretion, flux=8.354850
+- ura[e] (uracil): secretion, flux=6.765528
+- but[e] (butyrate): secretion, flux=3.876088
+- glu_L[e] (L-glutamate(1-)): uptake, flux=-2.384514
+
+Cross-feeding candidates for the anchor metabolite:
+- producer=Alistipes_shahii_WAL_8301_AGORA1_03, consumer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, score=8.663821
+- producer=Bacteroides_dorei_DSM_17855_AGORA1_03, consumer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, score=0.447472
+
+Provenance edge roles included:
+- environment_exchange
+- shared_pool_secretion
+- crossfeeding_candidate
+- shared_pool_uptake
+- internal_processing
+- biomass_adjacent

@@ -1,0 +1,4 @@
+age_group,min_age_inclusive,max_age_exclusive,notes
+20_40,20,40,Includes ages 20 to 39
+40_60,40,60,Includes ages 40 to 59
+60_plus,60,,Includes ages 60 and above

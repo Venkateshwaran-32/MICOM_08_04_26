@@ -1,0 +1,16 @@
+age_group,diet,species,shared_metabolite_id,shared_metabolite_name,reaction_id,reaction_name,flux,abs_flux,direction,medium_available_flag,exchange_class,rank_within_species
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,cholate(e),Cholate,BIACt1,"Bile acid transport, cholate",-1000.0,1000.0,internal,False,transport_only,1
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,BIACt4,"Bile acid transport, 7-Dehydrocholate",1000.0,1000.0,internal,False,transport_only,2
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,BIACt1,"Bile acid transport, cholate",-1000.0,1000.0,internal,False,transport_only,3
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,7ocholate(e),"3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate",BIACt4,"Bile acid transport, 7-Dehydrocholate",1000.0,1000.0,internal,False,transport_only,4
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2(e),Hydrogen,EX_h2(e),H2 exchange,465.1996179221293,465.1996179221293,uptake,True,diet_uptake,5
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2(e),Hydrogen,H2td,hydrogen transport,465.1996179221293,465.1996179221293,internal,False,transport_only,6
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,acald(e),acetaldehyde,ACALDt,Acetaldehyde Reversible Transport,-344.2476405589765,344.2476405589765,internal,False,transport_only,7
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,acald(e),acetaldehyde,EX_acald(e),Acetaldehyde exchange,344.2476405589765,344.2476405589765,uptake,False,transport_only,8
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,co2(e),carbon dioxide,CO2t,CO2 Transporter via Diffusion,-273.2829061006805,273.2829061006805,internal,False,transport_only,9
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,co2(e),carbon dioxide,EX_co2(e),CO2 exchange,273.2829061006805,273.2829061006805,uptake,False,transport_only,10
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2o(e),Water,H2Ot,H2O Transport via Diffusion,179.33404164097198,179.33404164097198,internal,False,transport_only,11
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,fum(e),Fumarate,EX_fum(e),exchange reaction for fumarate,152.6778403559582,152.6778403559582,uptake,True,diet_uptake,12
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,fum(e),Fumarate,FUMt2r,fumarate reversible transport via symport,-152.6778403559582,152.6778403559582,internal,False,transport_only,13
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,FUMt2r,fumarate reversible transport via symport,-152.6778403559582,152.6778403559582,internal,False,transport_only,14
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,nh4(e),Ammonium,EX_nh4(e),Ammonia exchange,147.391404677161,147.391404677161,uptake,False,transport_only,15

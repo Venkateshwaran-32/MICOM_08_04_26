@@ -1,0 +1,11 @@
+species,status,growth_full_access,applied_exchanges,missing_exchanges,uptake_bound_per_exchange,notes,file,objective
+Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1.03,optimal,2.438852146098139,98,66,1.0,,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1.03.xml,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Escherichia_coli_UTI89_UPEC_AGORA1.03,optimal,1.9001309473543453,98,66,1.0,,Escherichia_coli_UTI89_UPEC_AGORA1.03.xml,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Faecalibacterium_prausnitzii_M21_2._AGORA1.03,optimal,1.610128999510106,84,80,1.0,,Faecalibacterium_prausnitzii_M21_2._AGORA1.03.xml,1.0*biomass224 - 1.0*biomass224_reverse_c48a3
+Bacteroides_dorei_DSM_17855_AGORA1.03,optimal,0.8618796491943778,66,98,1.0,,Bacteroides_dorei_DSM_17855_AGORA1.03.xml,1.0*biomass536 - 1.0*biomass536_reverse_50d4e
+Parabacteroides_merdae_ATCC_43184_AGORA1.03,optimal,0.8618796491943138,86,78,1.0,,Parabacteroides_merdae_ATCC_43184_AGORA1.03.xml,1.0*biomass536 - 1.0*biomass536_reverse_50d4e
+Bacteroides_xylanisolvens_XB1A_AGORA1.03,optimal,0.8542052696265297,72,92,1.0,,Bacteroides_xylanisolvens_XB1A_AGORA1.03.xml,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Alistipes_onderdonkii_DSM_19147_AGORA1.03,optimal,0.5673901112474584,72,92,1.0,,Alistipes_onderdonkii_DSM_19147_AGORA1.03.xml,1.0*biomass419 - 1.0*biomass419_reverse_b104e
+Alistipes_shahii_WAL_8301_AGORA1.03,optimal,0.5339822506464488,74,90,1.0,,Alistipes_shahii_WAL_8301_AGORA1.03.xml,1.0*biomass399 - 1.0*biomass399_reverse_eee47
+Ruminococcus_torques_ATCC_27756_AGORA1.03,optimal,0.5140707694967867,61,103,1.0,,Ruminococcus_torques_ATCC_27756_AGORA1.03.xml,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Bilophila_wadsworthia_3_1_6_AGORA1.03,optimal,0.18138154545198884,66,98,1.0,,Bilophila_wadsworthia_3_1_6_AGORA1.03.xml,1.0*biomass525 - 1.0*biomass525_reverse_5c178

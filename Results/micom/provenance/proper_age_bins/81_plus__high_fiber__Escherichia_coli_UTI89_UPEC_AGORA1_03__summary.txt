@@ -1,0 +1,20 @@
+MICOM provenance summary
+Tradeoff fraction: 0.5
+Age group: 81_plus
+Diet: high_fiber
+Species: Escherichia_coli_UTI89_UPEC_AGORA1_03
+Top pathway: Nucleotide interconversion
+Species growth rate: 2.758625
+Anchor metabolite: dad_2(e) (2-deoxyadenosine)
+Anchor uptake flux: 13.387384
+Likely origin: mixed_medium_plus_crossfeeding
+Crossfeeding support score: 13.387384
+Top producer species: Alistipes_shahii_WAL_8301_AGORA1_03
+Top producer flux: 100.000000
+
+Top crossfeeding candidates:
+- Alistipes_shahii_WAL_8301_AGORA1_03 -> dad_2(e) -> Escherichia_coli_UTI89_UPEC_AGORA1_03; support=13.387384; origin=mixed_medium_plus_crossfeeding
+- Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03 -> dad_2(e) -> Escherichia_coli_UTI89_UPEC_AGORA1_03; support=13.387384; origin=mixed_medium_plus_crossfeeding
+- Bacteroides_xylanisolvens_XB1A_AGORA1_03 -> dad_2(e) -> Escherichia_coli_UTI89_UPEC_AGORA1_03; support=0.285953; origin=mixed_medium_plus_crossfeeding
+- Alistipes_onderdonkii_DSM_19147_AGORA1_03 -> glyc3p(e) -> Escherichia_coli_UTI89_UPEC_AGORA1_03; support=23.139554; origin=mixed_medium_plus_crossfeeding
+- Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03 -> glyc3p(e) -> Escherichia_coli_UTI89_UPEC_AGORA1_03; support=23.139554; origin=mixed_medium_plus_crossfeeding

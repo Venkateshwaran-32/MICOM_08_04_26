@@ -1,0 +1,2 @@
+n_species_models,n_species_ids,n_reactions_total,n_metabolites_total,n_genes_total,n_biomass_reactions,n_connector_reactions,n_community_exchange_reactions,n_species_exchange_reactions,n_species_internal_reactions,n_unique_medium_exchange_ids
+10,10,24172,14250,8474,10,4073,130,4081,15888,164

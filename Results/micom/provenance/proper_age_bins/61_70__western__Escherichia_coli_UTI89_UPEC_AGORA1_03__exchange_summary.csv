@@ -1,0 +1,16 @@
+age_group,diet,species,shared_metabolite_id,shared_metabolite_name,reaction_id,reaction_name,flux,abs_flux,direction,medium_available_flag,exchange_class,rank_within_species
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,cholate(e),Cholate,BIACt1,"Bile acid transport, cholate",-1000.0,1000.0,internal,False,transport_only,1
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,BIACt4,"Bile acid transport, 7-Dehydrocholate",1000.0,1000.0,internal,False,transport_only,2
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,BIACt1,"Bile acid transport, cholate",-1000.0,1000.0,internal,False,transport_only,3
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,7ocholate(e),"3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate",BIACt4,"Bile acid transport, 7-Dehydrocholate",1000.0,1000.0,internal,False,transport_only,4
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2(e),Hydrogen,H2td,hydrogen transport,688.092102321403,688.092102321403,internal,False,transport_only,5
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2(e),Hydrogen,EX_h2(e),H2 exchange,688.092102321403,688.092102321403,uptake,True,diet_uptake,6
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,acald(e),acetaldehyde,ACALDt,Acetaldehyde Reversible Transport,-460.53897258662954,460.53897258662954,internal,False,transport_only,7
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,acald(e),acetaldehyde,EX_acald(e),Acetaldehyde exchange,460.53897258662954,460.53897258662954,uptake,False,transport_only,8
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,co2(e),carbon dioxide,CO2t,CO2 Transporter via Diffusion,-430.177409764556,430.177409764556,internal,False,transport_only,9
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,co2(e),carbon dioxide,EX_co2(e),CO2 exchange,430.177409764556,430.177409764556,uptake,False,transport_only,10
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2o(e),Water,H2Ot,H2O Transport via Diffusion,179.33404164097198,179.33404164097198,internal,False,transport_only,11
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,fum(e),Fumarate,EX_fum(e),exchange reaction for fumarate,136.32071739070682,136.32071739070682,uptake,True,diet_uptake,12
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,fum(e),Fumarate,FUMt2r,fumarate reversible transport via symport,-136.32071739070682,136.32071739070682,internal,False,transport_only,13
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,FUMt2r,fumarate reversible transport via symport,-136.32071739070682,136.32071739070682,internal,False,transport_only,14
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,gly(e),Glycine,GLYt2r,Glycine Reversible Transport via Proton Symport,-120.97811575674186,120.97811575674186,internal,False,transport_only,15

@@ -1,0 +1,11 @@
+file,model_id,reactions,metabolites,genes,objective
+Alistipes_onderdonkii_DSM_19147_AGORA1.03.xml,Alistipes_onderdonkii_DSM_19147,1101,996,660,1.0*biomass419 - 1.0*biomass419_reverse_b104e
+Alistipes_shahii_WAL_8301_AGORA1.03.xml,Alistipes_shahii_WAL_8301,2225,1361,665,1.0*biomass399 - 1.0*biomass399_reverse_eee47
+Bacteroides_dorei_DSM_17855_AGORA1.03.xml,Bacteroides_dorei_DSM_17855,2345,1467,815,1.0*biomass536 - 1.0*biomass536_reverse_50d4e
+Bacteroides_xylanisolvens_XB1A_AGORA1.03.xml,Bacteroides_xylanisolvens_XB1A,2297,1399,828,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Bilophila_wadsworthia_3_1_6_AGORA1.03.xml,Bilophila_wadsworthia_3_1_6,1386,1194,819,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Escherichia_coli_UTI89_UPEC_AGORA1.03.xml,Escherichia_coli_UTI89_UPEC,2283,1601,1257,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Faecalibacterium_prausnitzii_M21_2._AGORA1.03.xml,Faecalibacterium_prausnitzii_M21_2,1767,1361,732,1.0*biomass224 - 1.0*biomass224_reverse_c48a3
+Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1.03.xml,Klebsiella_pneumoniae_pneumoniae_MGH78578,1817,1379,1393,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Parabacteroides_merdae_ATCC_43184_AGORA1.03.xml,Parabacteroides_merdae_ATCC_43184,2474,1514,732,1.0*biomass536 - 1.0*biomass536_reverse_50d4e
+Ruminococcus_torques_ATCC_27756_AGORA1.03.xml,Ruminococcus_torques_ATCC_27756,2274,1298,585,1.0*biomass525 - 1.0*biomass525_reverse_5c178

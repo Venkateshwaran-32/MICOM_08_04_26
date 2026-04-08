@@ -1,0 +1,28 @@
+step,diet,species,pathway,reaction_id,reaction_name,flux,equation_in_flux_direction,incoming_from,shared_metabolites_from_previous,biomass_adjacent_flag
+1,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,DURIPP,Deoxyuridine Phosphorylase,10.037012994100698,duri[c] + pi[c] -> 2dr1p[c] + ura[c],,,True
+2,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,NDPK2,Nucleoside-Diphosphate Kinase (ATP:UDP),2.196015048820217,atp[c] + udp[c] -> adp[c] + utp[c],,,True
+3,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADK1,Adenylate Kinase,1.0526878463434004,amp[c] + atp[c] -> 2 adp[c],,,True
+4,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,NTD7,5-Nucleotidase (AMP),0.6468702447214052,amp[c] + h2o[c] -> adn[c] + pi[c],,,True
+5,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADD,adenine deaminase,0.6420896275342911,ade[c] + h2o[c] + h[c] -> hxan[c] + nh4[c],,,True
+6,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,PUNP1,Purine-Nucleoside Phosphorylase (Adenosine),0.6420896275342911,adn[c] + pi[c] -> ade[c] + r1p[c],,,True
+7,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADK5,adenylate kinase (CTP),-0.5340118652700081,adp[c] + cdp[c] -> amp[c] + ctp[c],,,True
+8,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,CYTK1,Cytidylate Kinase (CMP),0.5340118652700081,atp[c] + cmp[c] -> adp[c] + cdp[c],,,True
+9,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,UMPK,UMP Kinase,0.069698733624501,atp[c] + ump[c] -> adp[c] + udp[c],,,True
+10,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,NDPK9,Nucleoside-Diphosphate Kinase (ATP:IDP),0.032724380455491,atp[c] + idp[c] -> adp[c] + itp[c],,,True
+11,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADK3,Adentylate Kinase (GTP),-0.0303121247485078,adp[c] + gdp[c] -> amp[c] + gtp[c],,,True
+12,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,GK1,Guanylate Kinase (GMP:ATP),0.0303121247485078,atp[c] + gmp[c] -> adp[c] + gdp[c],,,True
+13,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,CTPS1,CTP Synthase (NH3),0.0157296677955298,atp[c] + nh4[c] + utp[c] -> adp[c] + ctp[c] + 2 h[c] + pi[c],,,True
+14,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADK10,adenylate kinase (dTTP),-0.0118620986961943,adp[c] + dtdp[c] -> amp[c] + dttp[c],,,True
+15,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADAD,deoxycytidine kinase,0.0090979666356781,atp[c] + dcyt[c] -> adp[c] + dcmp[c] + h[c],,,True
+16,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADK9,adenylate kinase (dGTP),-0.0090979666356781,adp[c] + dgdp[c] -> amp[c] + dgtp[c],,,True
+17,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,CYTK2,Cytidylate Kinase (dCMP),0.0090979666356781,atp[c] + dcmp[c] -> adp[c] + dcdp[c],,,True
+18,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,DGK1,Deoxyguanylate Kinase (dGMP:ATP),0.0090979666356781,atp[c] + dgmp[c] -> adp[c] + dgdp[c],,,True
+19,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,NDPK7,Nucleoside-Diphosphate Kinase (ATP:dCDP),0.0090979666356781,atp[c] + dcdp[c] -> adp[c] + dctp[c],,,True
+20,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,r0456,ATP:Deoxyguanosine 5-Phosphotransferase,0.0090979666356781,atp[c] + dgsn[c] -> adp[c] + dgmp[c] + h[c],,,True
+21,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,DTMPK,DTMP Kinase,0.0070814815090807,atp[c] + dtmp[c] -> adp[c] + dtdp[c],,,True
+22,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,DURIK1,Deoxyuridine Kinase (ATP:Deoxyuridine),0.0070814815090807,atp[c] + duri[c] -> adp[c] + dump[c] + h[c],,,True
+23,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,NDPK8,Nucleoside-Diphosphate Kinase (ATP:dADP),0.0070814815090807,atp[c] + dadp[c] -> adp[c] + datp[c],,,True
+24,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,RNDR1,Ribonucleoside-Diphosphate Reductase (ADP),0.0070814815090807,adp[c] + trdrd[c] -> dadp[c] + h2o[c] + trdox[c],,,True
+25,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,TMDSf2,"thymidylate synthase  (Flavin-dependent, NAD)",0.0070814815090807,dump[c] + fadh2[c] + mlthf[c] -> dtmp[c] + fad[c] + thf[c],,,True
+26,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,ADK2,adenylate kinase (Inorganic triphosphate),0.004780617187114,amp[c] + pppi[c] -> adp[c] + ppi[c],,,True
+27,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,BPNT,"3, 5-Bisphosphate Nucleotidase",0.004780617187114,h2o[c] + pap[c] -> amp[c] + pi[c],,,True

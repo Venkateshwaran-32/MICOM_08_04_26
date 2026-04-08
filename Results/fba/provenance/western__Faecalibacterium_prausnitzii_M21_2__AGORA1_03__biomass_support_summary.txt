@@ -1,0 +1,25 @@
+Species-level biomass support summary
+Species: Faecalibacterium_prausnitzii_M21_2__AGORA1_03
+Diet: western
+
+Top biomass-adjacent pathways:
+- Glycolysis/gluconeogenesis: score=0.170739, share=0.142, top reaction=ENO
+- Pyruvate metabolism: score=0.100604, share=0.084, top reaction=ACALD
+- Lysine metabolism: score=0.087967, share=0.073, top reaction=L2A6OD2s
+- Pentose phosphate pathway: score=0.070403, share=0.058, top reaction=DRPAr
+- Glycine, serine, alanine, and threonine metabolism: score=0.068976, share=0.057, top reaction=HSDx
+- Nucleotide interconversion: score=0.052276, share=0.043, top reaction=DURIPP
+
+Top shared metabolite supports:
+- h[e] -> Glycolysis/gluconeogenesis: uptake=34.958604, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=34.958604
+- h[e] -> Pyruvate metabolism: uptake=34.958604, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=34.958604
+- h[e] -> Pentose phosphate pathway: uptake=34.958604, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=34.958604
+- h[e] -> Nucleotide interconversion: uptake=34.958604, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=34.958604
+- co2[e] -> Glycolysis/gluconeogenesis: uptake=9.756613, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=9.756613
+- co2[e] -> Pyruvate metabolism: uptake=9.756613, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=9.756613
+- co2[e] -> Pentose phosphate pathway: uptake=9.756613, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=9.756613
+- co2[e] -> Nucleotide interconversion: uptake=9.756613, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=9.756613
+- dcyt[e] -> Glycolysis/gluconeogenesis: uptake=10.053192, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=8.663821
+- dcyt[e] -> Pyruvate metabolism: uptake=10.053192, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=8.663821
+- dcyt[e] -> Pentose phosphate pathway: uptake=10.053192, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=8.663821
+- dcyt[e] -> Nucleotide interconversion: uptake=10.053192, producer=Alistipes_shahii_WAL_8301_AGORA1_03, support=8.663821

@@ -1,0 +1,373 @@
+diet,age_group,pathway,sum_abs_flux,n_reactions
+high_fiber,20_40,Alanine and aspartate metabolism,2501.0771095361547,43
+high_fiber,20_40,Aminosugar metabolism,7823.372628870362,42
+high_fiber,20_40,Arginine and proline metabolism,6081.155268149943,25
+high_fiber,20_40,Bile acid metabolism,2200.0,5
+high_fiber,20_40,Biotin metabolism,0.32059406926651335,30
+high_fiber,20_40,Butanoate metabolism,5069.139803616842,7
+high_fiber,20_40,Cell wall biosynthesis,0.614203885398459,100
+high_fiber,20_40,Cholesterol metabolism,0.0935471171828656,14
+high_fiber,20_40,Citric acid cycle,32533.923549572377,66
+high_fiber,20_40,CoA synthesis,0.2719763180506616,60
+high_fiber,20_40,Exchange/demand reaction,13201.203375339574,482
+high_fiber,20_40,Fatty acid oxidation,2.5174627949510886,7
+high_fiber,20_40,Fatty acid synthesis,5009.200038479287,147
+high_fiber,20_40,Folate metabolism,14595.516245628743,40
+high_fiber,20_40,Fructose and mannose metabolism,102.82167530231168,15
+high_fiber,20_40,Galactose metabolism,18048.65293175251,23
+high_fiber,20_40,Glutamate metabolism,12917.200017384312,26
+high_fiber,20_40,Glutathione metabolism,11.844047186986023,2
+high_fiber,20_40,Glycerophospholipid metabolism,12456.920920562852,81
+high_fiber,20_40,"Glycine, serine, alanine, and threonine metabolism",21191.126622707965,56
+high_fiber,20_40,Glycolysis/gluconeogenesis,25144.158120320288,102
+high_fiber,20_40,Glyoxylate and dicarboxylate metabolism,4139.256075541995,8
+high_fiber,20_40,Histidine metabolism,0.27131067776059103,40
+high_fiber,20_40,Lipopolysaccharide biosynthesis,0.4127671168619667,90
+high_fiber,20_40,Lysine metabolism,3085.580471764963,29
+high_fiber,20_40,Methane metabolism,0.021984291727870003,2
+high_fiber,20_40,Methionine and cysteine metabolism,375.3342853535486,29
+high_fiber,20_40,Miscellaneous,86.59899574280617,7
+high_fiber,20_40,NAD metabolism,1124.2995458403861,33
+high_fiber,20_40,Nitrogen metabolism,58.26084352178422,2
+high_fiber,20_40,Nucleotide interconversion,116323.63311833821,245
+high_fiber,20_40,Nucleotide salvage pathway,103.39762689313736,6
+high_fiber,20_40,Nucleotide sugar metabolism,0.0155761176174326,6
+high_fiber,20_40,Others,19.420281173928068,1
+high_fiber,20_40,Oxidative phosphorylation,40.64616647748392,2
+high_fiber,20_40,Pentose and glucuronate interconversions,526.9270730877099,17
+high_fiber,20_40,Pentose phosphate pathway,8940.953231591986,71
+high_fiber,20_40,Phenylalanine metabolism,165.11942400874187,38
+high_fiber,20_40,Plant polysaccharide degradation,37.13072540746288,9
+high_fiber,20_40,Propanoate metabolism,3228.674141752237,9
+high_fiber,20_40,Purine catabolism,2718.065660068898,20
+high_fiber,20_40,Purine synthesis,93.2381072101552,41
+high_fiber,20_40,Pyrimidine catabolism,306.84690385486584,10
+high_fiber,20_40,Pyrimidine synthesis,179.65868527059774,12
+high_fiber,20_40,Pyruvate metabolism,5237.279349248867,45
+high_fiber,20_40,Respiration,2982.9216440917326,14
+high_fiber,20_40,Squalene and cholesterol synthesis,0.1992907718986464,5
+high_fiber,20_40,Starch and sucrose metabolism,6960.1502907836,14
+high_fiber,20_40,Sulfur metabolism,232.27073156163186,7
+high_fiber,20_40,Terpenoid backbone biosynthesis,5735.96781157531,55
+high_fiber,20_40,Thiamine metabolism,0.0116945847618594,3
+high_fiber,20_40,"Transport, extracellular",23481.922279163467,421
+high_fiber,20_40,Tryptophan metabolism,18.014707051951294,21
+high_fiber,20_40,Tyrosine metabolism,130.28075156933335,6
+high_fiber,20_40,Ubiquinone and other terpenoid-quinone biosynthesis,27.49191714859915,2
+high_fiber,20_40,Unassigned,2.1035186965326496,7
+high_fiber,20_40,Urea cycle,303.59716106224147,13
+high_fiber,20_40,"Valine, leucine, and isoleucine metabolism",44003.78493258669,86
+high_fiber,20_40,Vitamin B12 metabolism,0.057730410073393496,10
+high_fiber,20_40,Vitamin B2 metabolism,0.08805429961382119,42
+high_fiber,20_40,Vitamin B6 metabolism,65.92975004662604,10
+high_fiber,20_40,beta-Alanine metabolism,19.284168751521698,7
+high_fiber,40_60,Alanine and aspartate metabolism,615.5599249033648,28
+high_fiber,40_60,Aminosugar metabolism,159.59842622141613,27
+high_fiber,40_60,Arginine and proline metabolism,2318.8502023355913,14
+high_fiber,40_60,Bile acid metabolism,2000.0,2
+high_fiber,40_60,Biotin metabolism,0.1917250881511364,15
+high_fiber,40_60,Butanoate metabolism,5051.363372739371,7
+high_fiber,40_60,Cell wall biosynthesis,1.0681724500560443,76
+high_fiber,40_60,Cholesterol metabolism,0.18416425211084958,10
+high_fiber,40_60,Citric acid cycle,22042.81564249827,46
+high_fiber,40_60,CoA synthesis,0.3435630290927223,42
+high_fiber,40_60,Exchange/demand reaction,6977.703363469656,352
+high_fiber,40_60,Fatty acid oxidation,2.859564572024417,6
+high_fiber,40_60,Fatty acid synthesis,4998.020195118065,113
+high_fiber,40_60,Folate metabolism,13175.971256596675,30
+high_fiber,40_60,Fructose and mannose metabolism,8.150945269248375,12
+high_fiber,40_60,Galactose metabolism,12032.60988814649,19
+high_fiber,40_60,Glutamate metabolism,6030.7711392251695,19
+high_fiber,40_60,Glutathione metabolism,6.796036475589839,1
+high_fiber,40_60,Glycerophospholipid metabolism,8064.441119664681,49
+high_fiber,40_60,"Glycine, serine, alanine, and threonine metabolism",16332.882544624867,43
+high_fiber,40_60,Glycolysis/gluconeogenesis,20752.087752131705,75
+high_fiber,40_60,Glyoxylate and dicarboxylate metabolism,2123.704960146951,6
+high_fiber,40_60,Histidine metabolism,0.227852315977124,20
+high_fiber,40_60,Lipopolysaccharide biosynthesis,0.37924890454698756,60
+high_fiber,40_60,Lysine metabolism,8210.46881816975,26
+high_fiber,40_60,Methane metabolism,0.0126557373772721,1
+high_fiber,40_60,Methionine and cysteine metabolism,74.12119564404536,19
+high_fiber,40_60,Miscellaneous,163.19054035367725,5
+high_fiber,40_60,NAD metabolism,1066.0988354011236,35
+high_fiber,40_60,Nitrogen metabolism,20.3489348434415,2
+high_fiber,40_60,Nucleotide interconversion,83222.74526437515,171
+high_fiber,40_60,Nucleotide salvage pathway,45.26879973625101,4
+high_fiber,40_60,Nucleotide sugar metabolism,0.0143112794168674,4
+high_fiber,40_60,Others,6.782978281147163,1
+high_fiber,40_60,Oxidative phosphorylation,8.082852948871512,1
+high_fiber,40_60,Pentose and glucuronate interconversions,109.93013590318927,14
+high_fiber,40_60,Pentose phosphate pathway,6540.514994260866,56
+high_fiber,40_60,Phenylalanine metabolism,39.58993370894653,34
+high_fiber,40_60,Plant polysaccharide degradation,9.952894327048625,8
+high_fiber,40_60,Propanoate metabolism,3075.873991695522,7
+high_fiber,40_60,Purine catabolism,2111.252005286831,14
+high_fiber,40_60,Purine synthesis,47.04884025095471,27
+high_fiber,40_60,Pyrimidine catabolism,127.05238411933897,11
+high_fiber,40_60,Pyrimidine synthesis,262.8600436452968,15
+high_fiber,40_60,Pyruvate metabolism,2908.7402867494698,33
+high_fiber,40_60,Respiration,2915.2435356086953,10
+high_fiber,40_60,Squalene and cholesterol synthesis,0.48665138196281454,3
+high_fiber,40_60,Starch and sucrose metabolism,2986.388409358193,8
+high_fiber,40_60,Sulfur metabolism,95.15742786274609,6
+high_fiber,40_60,Terpenoid backbone biosynthesis,4007.015703691604,40
+high_fiber,40_60,Thiamine metabolism,0.0125776773123097,1
+high_fiber,40_60,"Transport, extracellular",16333.736396054497,313
+high_fiber,40_60,Tryptophan metabolism,5.651609750870888,19
+high_fiber,40_60,Tyrosine metabolism,11.05428315742684,4
+high_fiber,40_60,Ubiquinone and other terpenoid-quinone biosynthesis,0.0125776773123097,1
+high_fiber,40_60,Unassigned,85.67596720358031,7
+high_fiber,40_60,Urea cycle,322.2369440309573,9
+high_fiber,40_60,"Valine, leucine, and isoleucine metabolism",32016.943648190067,57
+high_fiber,40_60,Vitamin B12 metabolism,0.06288838656154849,5
+high_fiber,40_60,Vitamin B2 metabolism,0.1396295193766002,31
+high_fiber,40_60,Vitamin B6 metabolism,24.36510772448122,21
+high_fiber,40_60,beta-Alanine metabolism,6.818926178525487,5
+high_fiber,60_plus,Alanine and aspartate metabolism,1269.9300489077837,44
+high_fiber,60_plus,Aminosugar metabolism,3659.3161089136806,42
+high_fiber,60_plus,Arginine and proline metabolism,6316.059958787375,34
+high_fiber,60_plus,Bile acid metabolism,2143.0561924613744,5
+high_fiber,60_plus,Biotin metabolism,1.847685600843957,30
+high_fiber,60_plus,Butanoate metabolism,7315.389695101866,13
+high_fiber,60_plus,Cell wall biosynthesis,67.53846564124228,114
+high_fiber,60_plus,Cholesterol metabolism,4.88800695319309,17
+high_fiber,60_plus,Citric acid cycle,37358.34609930537,76
+high_fiber,60_plus,CoA synthesis,0.8676449484379902,66
+high_fiber,60_plus,Exchange/demand reaction,11210.38819959547,545
+high_fiber,60_plus,Fatty acid oxidation,5.879702750009973,10
+high_fiber,60_plus,Fatty acid synthesis,4873.802364538137,179
+high_fiber,60_plus,Folate metabolism,17327.738555490945,38
+high_fiber,60_plus,Fructose and mannose metabolism,47.530657312676176,11
+high_fiber,60_plus,Galactose metabolism,18015.319515629646,26
+high_fiber,60_plus,Glutamate metabolism,12725.143152690593,32
+high_fiber,60_plus,Glutathione metabolism,12.940363869876059,2
+high_fiber,60_plus,Glycerophospholipid metabolism,15946.940522312787,91
+high_fiber,60_plus,"Glycine, serine, alanine, and threonine metabolism",22407.514335428732,63
+high_fiber,60_plus,Glycolysis/gluconeogenesis,27402.990975298133,117
+high_fiber,60_plus,Glyoxylate and dicarboxylate metabolism,4103.104053828258,9
+high_fiber,60_plus,Histidine metabolism,6.887204331554163,44
+high_fiber,60_plus,Lipopolysaccharide biosynthesis,3.160017669036381,90
+high_fiber,60_plus,Lysine metabolism,2954.6558044904878,32
+high_fiber,60_plus,Methane metabolism,0.1215263650431155,2
+high_fiber,60_plus,Methionine and cysteine metabolism,510.9501646643235,35
+high_fiber,60_plus,Miscellaneous,45.66312616151751,8
+high_fiber,60_plus,NAD metabolism,2142.8473161396328,47
+high_fiber,60_plus,Nitrogen metabolism,47.17746703994019,2
+high_fiber,60_plus,Nucleotide interconversion,134586.318911248,265
+high_fiber,60_plus,Nucleotide salvage pathway,20.753617162961163,6
+high_fiber,60_plus,Nucleotide sugar metabolism,0.11924594977495759,6
+high_fiber,60_plus,Others,3.612379962472803,1
+high_fiber,60_plus,Oxidative phosphorylation,62.03641315965524,3
+high_fiber,60_plus,Pentose and glucuronate interconversions,339.13680348643294,12
+high_fiber,60_plus,Pentose phosphate pathway,10985.282353139924,86
+high_fiber,60_plus,Phenylalanine metabolism,23.95599255702237,52
+high_fiber,60_plus,Plant polysaccharide degradation,13.752564321882863,10
+high_fiber,60_plus,Propanoate metabolism,3109.4599872956287,8
+high_fiber,60_plus,Purine catabolism,2171.4718878008575,21
+high_fiber,60_plus,Purine synthesis,29.760742452107685,32
+high_fiber,60_plus,Pyrimidine catabolism,371.56859822929636,14
+high_fiber,60_plus,Pyrimidine synthesis,137.36580030244295,21
+high_fiber,60_plus,Pyruvate metabolism,4901.641334210232,47
+high_fiber,60_plus,Respiration,3332.6631001670626,13
+high_fiber,60_plus,Squalene and cholesterol synthesis,59.56899027892654,6
+high_fiber,60_plus,Starch and sucrose metabolism,4030.3930960227804,11
+high_fiber,60_plus,Sulfur metabolism,388.2554781331144,12
+high_fiber,60_plus,Terpenoid backbone biosynthesis,4224.3352839790705,69
+high_fiber,60_plus,Thiamine metabolism,0.0219706667399893,3
+high_fiber,60_plus,"Transport, extracellular",19103.466625714256,471
+high_fiber,60_plus,Tryptophan metabolism,157.69516785906293,22
+high_fiber,60_plus,Tyrosine metabolism,3.3113722094101226,5
+high_fiber,60_plus,Ubiquinone and other terpenoid-quinone biosynthesis,9.770964769595766,20
+high_fiber,60_plus,Unassigned,7.599872675799652,8
+high_fiber,60_plus,Urea cycle,134.1306808669762,15
+high_fiber,60_plus,"Valine, leucine, and isoleucine metabolism",52545.44776965825,96
+high_fiber,60_plus,Vitamin B12 metabolism,0.102299384140632,10
+high_fiber,60_plus,Vitamin B2 metabolism,0.6695716063756536,44
+high_fiber,60_plus,Vitamin B6 metabolism,11.296128490469496,40
+high_fiber,60_plus,beta-Alanine metabolism,2003.691267657788,9
+western,20_40,Alanine and aspartate metabolism,4516.632555345822,44
+western,20_40,Aminosugar metabolism,5808.946505030326,43
+western,20_40,Arginine and proline metabolism,4110.106349249943,25
+western,20_40,Bile acid metabolism,2200.0,5
+western,20_40,Biotin metabolism,0.34830624399252624,30
+western,20_40,Butanoate metabolism,5076.363760360108,7
+western,20_40,Cell wall biosynthesis,0.6703391506018856,100
+western,20_40,Cholesterol metabolism,0.101444071673162,14
+western,20_40,Citric acid cycle,34494.17306690408,66
+western,20_40,CoA synthesis,0.3013002708441402,60
+western,20_40,Exchange/demand reaction,14036.014235032828,483
+western,20_40,Fatty acid oxidation,2.8084633961243393,7
+western,20_40,Fatty acid synthesis,5010.277654759964,147
+western,20_40,Folate metabolism,16209.545071425448,40
+western,20_40,Fructose and mannose metabolism,283.1987589548336,15
+western,20_40,Galactose metabolism,18034.95390451047,23
+western,20_40,Glutamate metabolism,13804.725896539368,26
+western,20_40,Glutathione metabolism,1.3280318585728481,2
+western,20_40,Glycerophospholipid metabolism,12471.546436346207,81
+western,20_40,"Glycine, serine, alanine, and threonine metabolism",19472.932160611697,56
+western,20_40,Glycolysis/gluconeogenesis,27042.22668788746,103
+western,20_40,Glyoxylate and dicarboxylate metabolism,4167.144660214512,8
+western,20_40,Histidine metabolism,0.293690150218882,40
+western,20_40,Lipopolysaccharide biosynthesis,0.4456360447199248,90
+western,20_40,Lysine metabolism,3087.3005805319017,29
+western,20_40,Methane metabolism,0.023878655139383503,2
+western,20_40,Methionine and cysteine metabolism,405.77642061690443,30
+western,20_40,Miscellaneous,75.40098861418878,7
+western,20_40,NAD metabolism,1161.822824275403,34
+western,20_40,Nitrogen metabolism,58.26084352178422,2
+western,20_40,Nucleotide interconversion,116494.21186307282,247
+western,20_40,Nucleotide salvage pathway,105.5274198338518,6
+western,20_40,Nucleotide sugar metabolism,0.0168164545177328,6
+western,20_40,Others,19.420281173928068,1
+western,20_40,Oxidative phosphorylation,49.81499311907315,2
+western,20_40,Pentose and glucuronate interconversions,710.6927358533844,17
+western,20_40,Pentose phosphate pathway,8930.54657730088,71
+western,20_40,Phenylalanine metabolism,164.34332236442503,38
+western,20_40,Plant polysaccharide degradation,14.51297358536941,9
+western,20_40,Propanoate metabolism,3228.932170751477,9
+western,20_40,Purine catabolism,2719.633971868507,20
+western,20_40,Purine synthesis,14.056088559546374,41
+western,20_40,Pyrimidine catabolism,209.4392869239356,11
+western,20_40,Pyrimidine synthesis,127.05144399249569,11
+western,20_40,Pyruvate metabolism,5863.72732928174,45
+western,20_40,Respiration,2970.61441317143,14
+western,20_40,Squalene and cholesterol synthesis,0.2156270652579435,5
+western,20_40,Starch and sucrose metabolism,5979.340958350574,14
+western,20_40,Sulfur metabolism,211.92898178139922,7
+western,20_40,Terpenoid backbone biosynthesis,6003.819856883556,55
+western,20_40,Thiamine metabolism,0.0130686189264718,3
+western,20_40,"Transport, extracellular",24340.450188992196,423
+western,20_40,Tryptophan metabolism,15.438136681498822,20
+western,20_40,Tyrosine metabolism,130.00000361877076,6
+western,20_40,Ubiquinone and other terpenoid-quinone biosynthesis,27.651073092526005,2
+western,20_40,Unassigned,2.3279377961589454,7
+western,20_40,Urea cycle,334.53992101610504,14
+western,20_40,"Valine, leucine, and isoleucine metabolism",44004.402780630066,86
+western,20_40,Vitamin B12 metabolism,0.0645368483021545,10
+western,20_40,Vitamin B2 metabolism,0.0960150713617738,42
+western,20_40,Vitamin B6 metabolism,65.86303109449614,11
+western,20_40,beta-Alanine metabolism,19.267785875289242,7
+western,40_60,Alanine and aspartate metabolism,2258.9440190980777,30
+western,40_60,Aminosugar metabolism,2110.548736376242,28
+western,40_60,Arginine and proline metabolism,2104.493595399183,15
+western,40_60,Bile acid metabolism,2000.0,2
+western,40_60,Biotin metabolism,0.3115743275534421,15
+western,40_60,Butanoate metabolism,5069.0494806508295,7
+western,40_60,Cell wall biosynthesis,1.1828754803906631,76
+western,40_60,Cholesterol metabolism,0.2035383578707098,10
+western,40_60,Citric acid cycle,23746.70769686457,46
+western,40_60,CoA synthesis,0.3831399897776184,42
+western,40_60,Exchange/demand reaction,6947.608017925359,348
+western,40_60,Fatty acid oxidation,53.99064861915674,6
+western,40_60,Fatty acid synthesis,5155.277654435424,115
+western,40_60,Folate metabolism,11606.89917047266,28
+western,40_60,Fructose and mannose metabolism,30.329156041908735,14
+western,40_60,Galactose metabolism,12006.40033727574,21
+western,40_60,Glutamate metabolism,6888.27818231279,20
+western,40_60,Glutathione metabolism,6.796036475589839,1
+western,40_60,Glycerophospholipid metabolism,8360.337162182359,49
+western,40_60,"Glycine, serine, alanine, and threonine metabolism",14458.906220390772,44
+western,40_60,Glycolysis/gluconeogenesis,18655.75380944003,72
+western,40_60,Glyoxylate and dicarboxylate metabolism,2122.418686567281,6
+western,40_60,Histidine metabolism,0.251303696024346,20
+western,40_60,Lipopolysaccharide biosynthesis,0.418282566131173,60
+western,40_60,Lysine metabolism,3017.4140952303096,22
+western,40_60,Methane metabolism,0.0139339112034415,1
+western,40_60,Methionine and cysteine metabolism,83.25649614889502,19
+western,40_60,Miscellaneous,159.80490620417487,5
+western,40_60,NAD metabolism,1069.4385774514046,35
+western,40_60,Nitrogen metabolism,20.3489348434415,2
+western,40_60,Nucleotide interconversion,80244.98731750465,170
+western,40_60,Nucleotide salvage pathway,47.15279472575499,3
+western,40_60,Nucleotide sugar metabolism,0.0157842477785348,4
+western,40_60,Others,6.782978281147163,1
+western,40_60,Oxidative phosphorylation,1.9746540235428465,1
+western,40_60,Pentose and glucuronate interconversions,172.02540752946098,14
+western,40_60,Pentose phosphate pathway,8530.026778239831,56
+western,40_60,Phenylalanine metabolism,18.19741329048212,25
+western,40_60,Plant polysaccharide degradation,2.4408604411975103,8
+western,40_60,Propanoate metabolism,3076.1617960760695,7
+western,40_60,Purine catabolism,2111.888652768817,12
+western,40_60,Purine synthesis,48.34122243022153,27
+western,40_60,Pyrimidine catabolism,51.86322474460493,9
+western,40_60,Pyrimidine synthesis,158.90385979214673,14
+western,40_60,Pyruvate metabolism,3105.8106889987475,33
+western,40_60,Respiration,2926.621602779872,10
+western,40_60,Squalene and cholesterol synthesis,0.5382691721341906,3
+western,40_60,Starch and sucrose metabolism,2963.9296977860486,8
+western,40_60,Sulfur metabolism,104.82820869034902,6
+western,40_60,Terpenoid backbone biosynthesis,4007.7537895844735,40
+western,40_60,Thiamine metabolism,0.0141114506020274,1
+western,40_60,"Transport, extracellular",16408.11457842389,310
+western,40_60,Tryptophan metabolism,5.324379156404372,19
+western,40_60,Tyrosine metabolism,5.850780261496492,3
+western,40_60,Ubiquinone and other terpenoid-quinone biosynthesis,0.0141114506020274,1
+western,40_60,Unassigned,79.53703080237158,7
+western,40_60,Urea cycle,271.42759015361503,10
+western,40_60,"Valine, leucine, and isoleucine metabolism",32005.126926426678,56
+western,40_60,Vitamin B12 metabolism,0.070557253010137,5
+western,40_60,Vitamin B2 metabolism,0.1547260884715333,31
+western,40_60,Vitamin B6 metabolism,24.346869147296395,21
+western,40_60,beta-Alanine metabolism,6.823106222629521,5
+western,60_plus,Alanine and aspartate metabolism,1213.7131745147876,39
+western,60_plus,Aminosugar metabolism,4305.197297664635,42
+western,60_plus,Arginine and proline metabolism,6619.027539829625,34
+western,60_plus,Bile acid metabolism,2099.2804534801353,5
+western,60_plus,Biotin metabolism,1.938508530856578,30
+western,60_plus,Butanoate metabolism,7973.501421292508,14
+western,60_plus,Cell wall biosynthesis,98.98882602700809,114
+western,60_plus,Cholesterol metabolism,0.7975070558718945,17
+western,60_plus,Citric acid cycle,37113.90951093019,74
+western,60_plus,CoA synthesis,0.9102794328110134,66
+western,60_plus,Exchange/demand reaction,12525.474139443204,539
+western,60_plus,Fatty acid oxidation,11.419837001691244,10
+western,60_plus,Fatty acid synthesis,6008.621257314914,183
+western,60_plus,Folate metabolism,18675.957259764444,40
+western,60_plus,Fructose and mannose metabolism,83.31308152169603,16
+western,60_plus,Galactose metabolism,18013.638709047646,29
+western,60_plus,Glutamate metabolism,13012.71929950877,31
+western,60_plus,Glutathione metabolism,12.94040163457052,2
+western,60_plus,Glycerophospholipid metabolism,16006.629792875108,103
+western,60_plus,"Glycine, serine, alanine, and threonine metabolism",20324.593507915146,58
+western,60_plus,Glycolysis/gluconeogenesis,28969.104126674447,109
+western,60_plus,Glyoxylate and dicarboxylate metabolism,4117.221034126054,9
+western,60_plus,Histidine metabolism,6.048036663209518,44
+western,60_plus,Lipopolysaccharide biosynthesis,3.3158643740311695,90
+western,60_plus,Lysine metabolism,9250.268781738176,38
+western,60_plus,Methane metabolism,0.1275000671389494,2
+western,60_plus,Methionine and cysteine metabolism,247.8526650751253,30
+western,60_plus,Miscellaneous,4.9852892019770545,8
+western,60_plus,NAD metabolism,2131.737746546618,46
+western,60_plus,Nitrogen metabolism,44.4551543773367,2
+western,60_plus,Nucleotide interconversion,134479.1223964847,267
+western,60_plus,Nucleotide salvage pathway,108.57641040901476,7
+western,60_plus,Nucleotide sugar metabolism,0.12512695751060998,6
+western,60_plus,Others,3.612379962472803,1
+western,60_plus,Oxidative phosphorylation,67.74620314732393,5
+western,60_plus,Pentose and glucuronate interconversions,325.46338568436164,11
+western,60_plus,Pentose phosphate pathway,12679.372585451214,87
+western,60_plus,Phenylalanine metabolism,14.496283013631663,52
+western,60_plus,Plant polysaccharide degradation,4.147232837371302,13
+western,60_plus,Propanoate metabolism,3109.930651834811,8
+western,60_plus,Purine catabolism,2260.2802762277483,14
+western,60_plus,Purine synthesis,73.29838874889028,42
+western,60_plus,Pyrimidine catabolism,118.85921010549946,12
+western,60_plus,Pyrimidine synthesis,54.169997345857155,19
+western,60_plus,Pyruvate metabolism,3939.7063121950323,48
+western,60_plus,Respiration,3494.9983926222967,16
+western,60_plus,Squalene and cholesterol synthesis,122.29077452539963,6
+western,60_plus,Starch and sucrose metabolism,4024.474438061644,12
+western,60_plus,Sulfur metabolism,147.2253159518541,10
+western,60_plus,Terpenoid backbone biosynthesis,4268.334255961626,69
+western,60_plus,Thiamine metabolism,0.0230529494275111,3
+western,60_plus,"Transport, extracellular",20621.334117932565,469
+western,60_plus,Tryptophan metabolism,143.95045346972822,23
+western,60_plus,Tyrosine metabolism,3.2966333561709003,5
+western,60_plus,Ubiquinone and other terpenoid-quinone biosynthesis,0.1462492930693281,19
+western,60_plus,Unassigned,7.973457125454474,8
+western,60_plus,Urea cycle,343.98198598005854,15
+western,60_plus,"Valine, leucine, and isoleucine metabolism",51976.54440069068,95
+western,60_plus,Vitamin B12 metabolism,0.10733315063363,10
+western,60_plus,Vitamin B2 metabolism,0.7024763585075324,44
+western,60_plus,Vitamin B6 metabolism,11.30359989527323,40
+western,60_plus,beta-Alanine metabolism,2003.6951472320281,9

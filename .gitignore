@@ -1,0 +1,13 @@
+.venv/
+Scripts/.venv/
+.cache/
+.matplotlib/
+Library/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+*.log

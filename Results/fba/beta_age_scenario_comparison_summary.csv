@@ -1,0 +1,7 @@
+scenario,diet,community_objective,n_positive_growth_species,main_grower,main_biomass,secondary_grower,secondary_biomass
+beta_age_positive_only,western,0.7800753063078276,2,Bacteroides xylanisolvens,2.5626158088796633,Faecalibacterium prausnitzii,0.0141238101531247
+beta_age_positive_only,high_fiber,0.7800753063078416,1,Bacteroides xylanisolvens,2.562615808879708,None,0.0
+beta_age_shifted,western,0.5153917909625046,2,Alistipes shahii,3.6943014783985695,Faecalibacterium prausnitzii,0.6021155946838646
+beta_age_shifted,high_fiber,0.50423309199873,2,Alistipes shahii,3.6943014783969823,Faecalibacterium prausnitzii,0.4741266619932123
+beta_age_raw_signed,western,5.842764044245211,1,Bacteroides xylanisolvens,2.5626158088794777,None,0.0
+beta_age_raw_signed,high_fiber,5.842764044245516,1,Bacteroides xylanisolvens,2.562615808879612,None,0.0

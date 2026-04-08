@@ -1,0 +1,7 @@
+age_group,diet,species,pathway,pathway_abs_flux,species_internal_abs_flux_total,species_growth_rate,pathway_flux_share,biomass_association_score,top_reaction_id,top_reaction_name,top_reaction_abs_flux
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Nucleotide interconversion,16165.559883103451,70941.00143543309,0.1268581492016043,0.22787329690879154,0.028907584698316953,ADK1,Adenylate Kinase,1000.0
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Valine, leucine, and isoleucine metabolism",8010.243870014328,70941.00143543309,0.1268581492016043,0.11291416399449684,0.014324081862988296,23DHMPO,"(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase",1000.0
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Citric acid cycle,5342.981624628487,70941.00143543309,0.1268581492016043,0.07531584720426308,0.009554428981883637,ACONT,Aconitase,1000.0
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycolysis/gluconeogenesis,4317.616312925992,70941.00143543309,0.1268581492016043,0.06086207165902032,0.007720849767238732,G6PI,alpha-D-Glucose 6-phosphate ketol-isomerase,1000.0
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Methionine and cysteine metabolism,3007.326506557315,70941.00143543309,0.1268581492016043,0.04239193760598984,0.0053777627457657585,CYSDS,Cysteine Desulfhydrase,1000.0
+61_70,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Galactose metabolism,3001.477455509304,70941.00143543309,0.1268581492016043,0.042309488092596166,0.005367303353094065,GALT,Galactose-1-Phosphate Uridylyltransferase,1000.0

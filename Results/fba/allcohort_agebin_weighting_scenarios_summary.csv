@@ -1,0 +1,13 @@
+scenario,diet,status,community_objective,applied_exchanges
+allcohort_equal_abundance,western,optimal,0.42964170730818285,130
+allcohort_equal_abundance,high_fiber,optimal,0.4168428140391268,130
+allcohort_agebin_21_40,western,optimal,1.1733935182282098,130
+allcohort_agebin_21_40,high_fiber,optimal,1.068512537342407,130
+allcohort_agebin_41_60,western,optimal,0.9712716545578145,130
+allcohort_agebin_41_60,high_fiber,optimal,0.88816703984567,130
+allcohort_agebin_61_70,western,optimal,1.2445190320605117,130
+allcohort_agebin_61_70,high_fiber,optimal,1.133280666767126,130
+allcohort_agebin_71_80,western,optimal,1.3409738507111817,130
+allcohort_agebin_71_80,high_fiber,optimal,1.323876777441424,130
+allcohort_agebin_81_90,western,optimal,0.8186689187514852,130
+allcohort_agebin_81_90,high_fiber,optimal,0.8017043130434243,130

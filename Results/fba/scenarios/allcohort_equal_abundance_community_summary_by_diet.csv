@@ -1,0 +1,3 @@
+scenario,diet,status,community_objective,applied_exchanges
+allcohort_equal_abundance,western,optimal,0.42964170730818285,130
+allcohort_equal_abundance,high_fiber,optimal,0.4168428140391268,130

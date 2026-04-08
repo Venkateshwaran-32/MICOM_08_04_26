@@ -1,0 +1,505 @@
+diet,species,pathway,sum_abs_flux,net_flux,n_active_reactions,n_biomass_reactions
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,"Transport, extracellular",185.64490146471704,-26.153491259684273,19,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Glycolysis/gluconeogenesis,73.08510227768774,26.09987710608097,9,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Pentose phosphate pathway,52.32219548927528,-52.32219548927528,6,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Alanine and aspartate metabolism,34.622531477639704,-22.84480410912809,4,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Pyrimidine catabolism,23.896921057963365,21.189453704813534,2,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Fructose and mannose metabolism,16.98736150048221,16.98736150048221,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Purine catabolism,15.696658646782586,-15.696658646782586,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Tryptophan metabolism,11.432142805376358,11.432142805376358,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Nucleotide interconversion,11.118735906798946,0.2888664941996282,7,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Respiration,9.46079255403645,9.46079255403645,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Citric acid cycle,5.5552186951058715,5.5552186951058715,2,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Glutamate metabolism,4.554283727656062,4.554283727656062,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Pyrimidine synthesis,1.353733676574915,1.353733676574915,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Sulfur metabolism,1.3537336765749148,1.3537336765749148,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Glycerophospholipid metabolism,1.3537336765749142,1.3537336765749142,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Arginine and proline metabolism,1.0009349674498091,0.3336449891499364,3,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Aminosugar metabolism,0.9999999999999999,0.9999999999999999,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Urea cycle,0.6672899782998729,-0.6672899782998729,2,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Pyruvate metabolism,0.3336449891499364,0.3336449891499364,1,0
+high_fiber,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Oxidative phosphorylation,0.3336449891499357,0.3336449891499357,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Glycolysis/gluconeogenesis,531.3259816399122,140.351422935303,10,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",393.2251005139857,-57.179223232870406,58,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pentose phosphate pathway,305.832344919147,279.94130429969596,9,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pyruvate metabolism,147.3839559537707,-36.33146868063256,5,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,74.62783618830997,72.78209297797409,25,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Glycerophospholipid metabolism,44.92926525729503,-16.6253375506452,32,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Valine, leucine, and isoleucine metabolism",17.973260645901398,3.2040935323251896,14,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Fatty acid synthesis,17.17563879090634,17.17563879090634,53,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Purine catabolism,14.422379119602718,14.290241344323368,3,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Exchange/demand reaction,11.0829044351949,11.0829044351949,3,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Respiration,7.275229867660341,-5.989998886867031,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Terpenoid backbone biosynthesis,7.11465941926893,7.11465941926893,7,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pyrimidine catabolism,5.568068113900387,5.568068113900387,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Alanine and aspartate metabolism,5.516583097063469,0.1671957792907539,7,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Lipopolysaccharide biosynthesis,4.897103236639653,4.897103236639653,30,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Arginine and proline metabolism,4.811604170374342,1.6038680567914474,6,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Methionine and cysteine metabolism,3.8671323469077836,1.2966703853211703,6,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Unassigned,3.6943014783983,3.6943014783983,1,1
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Propanoate metabolism,3.6839463513543516,-3.6839463513543516,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Fatty acid oxidation,3.683946351354351,3.683946351354351,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Histidine metabolism,2.9282511238376276,2.3426008990701024,10,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",2.713875239879985,1.6238137112885105,5,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Glutamate metabolism,2.6803514816005323,-2.6803514816005323,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Urea cycle,2.5266916360401686,-1.1417238718989944,4,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Phenylalanine metabolism,1.9999999999999998,0.0,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Citric acid cycle,1.765803083812592,1.765803083812592,3,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Cell wall biosynthesis,1.7555653112481775,1.0163799170384187,13,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Tyrosine metabolism,1.554171697586893,1.554171697586893,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Aminosugar metabolism,1.0163799170384187,1.0163799170384187,4,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Glutathione metabolism,1.0057197022639301,0.9942802977360699,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Squalene and cholesterol synthesis,0.9239817427621987,-0.9239817427621987,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Purine synthesis,0.8784753371512882,0.29282511238376274,3,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Folate metabolism,0.6886048655182687,0.5970896292953858,5,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Ubiquinone and other terpenoid-quinone biosynthesis,0.6426154903966549,0.6426154903966549,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide salvage pathway,0.5002453631899137,0.5002453631899137,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Galactose metabolism,0.3695926971048795,0.3695926971048795,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pyrimidine synthesis,0.33556079188587407,0.33556079188587407,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pentose and glucuronate interconversions,0.2771945228286596,0.2771945228286596,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,CoA synthesis,0.19446987697362544,0.19446987697362544,9,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Cholesterol metabolism,0.1847963485524398,0.1847963485524398,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide sugar metabolism,0.18479634855243976,0.18479634855243976,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,NAD metabolism,0.10295464075080564,0.10295464075080564,5,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Vitamin B12 metabolism,0.05719702263930167,0.05719702263930167,5,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Thiamine metabolism,0.022878809055720668,0.022878809055720668,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Vitamin B2 metabolism,0.022878809055720668,0.022878809055720668,2,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,beta-Alanine metabolism,0.022878809055720636,0.022878809055720636,1,0
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Vitamin B6 metabolism,0.011439404527860329,0.011439404527860329,1,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,"Transport, extracellular",153.7965191366868,5.0781631441989985,22,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Pyruvate metabolism,36.68285949590791,-2.9935462447783867,5,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Respiration,27.22496820027718,27.22496820027718,2,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Citric acid cycle,16.581185203042835,-2.3717600724017065,7,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",16.339206046625733,14.391953270774682,12,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Arginine and proline metabolism,16.24525990575354,10.238729448611807,5,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Glycolysis/gluconeogenesis,15.132822416190445,-4.014262317631292,7,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Folate metabolism,11.918691494410215,11.918691494410215,3,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Glutamate metabolism,7.361473883374273,7.361473883374273,2,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Urea cycle,6.006530457141734,-4.440892098500626e-16,2,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Miscellaneous,4.443547546397446,4.443547546397446,1,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Alanine and aspartate metabolism,3.752668297507312,-0.486813193962762,2,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Nucleotide interconversion,3.391864766877874,3.391864766877874,3,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Sulfur metabolism,0.9461866238638184,0.9461866238638184,1,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Aminosugar metabolism,0.5040386533333328,0.2520193266666664,4,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Pentose phosphate pathway,0.25991407333333333,0.25991407333333333,9,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Cell wall biosynthesis,0.2520193266666664,0.0,2,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Fructose and mannose metabolism,0.1973684,0.1973684,5,0
+high_fiber,Bacteroides_dorei_DSM_17855_AGORA1_03,Pentose and glucuronate interconversions,0.029129999999999996,0.014564999999999998,4,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,"Transport, extracellular",2220.9061344877173,23.183454849896698,23,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Glycolysis/gluconeogenesis,344.9002907738613,-3.063167150433705,12,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Respiration,246.43959482063516,246.43959482063516,2,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Nucleotide interconversion,204.8540943961333,39.954193947754106,13,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Citric acid cycle,106.0114822265871,106.0114822265871,4,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Miscellaneous,50.738900991292454,50.738900991292454,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",44.139127361032116,44.139127361032116,7,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pyrimidine catabolism,38.42285094900198,28.421961026828043,3,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Fructose and mannose metabolism,36.36936231684123,3.552713678800501e-15,2,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Starch and sucrose metabolism,36.36936231684123,0.0,2,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pyrimidine synthesis,28.421961026828047,28.421961026828047,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Folate metabolism,27.419568586802438,27.419568586802438,3,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Exchange/demand reaction,24.489266070989917,24.489266070989917,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pentose phosphate pathway,16.956609470289905,-6.3788003481159645,7,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,NAD metabolism,9.427552227944085,3.1425174093146944,3,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Glutamate metabolism,8.619804989943493,-8.619804989943493,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Purine catabolism,6.858372512859244,6.858372512859244,2,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pyruvate metabolism,5.055997663411555,4.5579456073940054,3,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Methionine and cysteine metabolism,3.1928674908433967,3.1928674908433967,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Fatty acid synthesis,3.1203072339439033,2.080204822629269,6,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Alanine and aspartate metabolism,1.8579275517722755,1.8579275517722755,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Purine synthesis,1.8579275517722749,1.8579275517722749,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Nucleotide salvage pathway,1.8579275517722746,1.8579275517722746,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Aminosugar metabolism,1.4370079567833962,1.4370079567833962,3,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pentose and glucuronate interconversions,1.1538383999999997,0.5769191999999999,4,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,"Valine, leucine, and isoleucine metabolism",0.8319098984503495,0.8319098984503495,4,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Biotin metabolism,0.520051205657319,0.520051205657319,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Glycerophospholipid metabolism,0.5200512056573173,0.5200512056573173,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Fatty acid oxidation,0.5200512056573172,0.5200512056573172,1,0
+high_fiber,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Plant polysaccharide degradation,0.00071023,0.00071023,1,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,"Transport, extracellular",165.632476375169,9.42169878064599,14,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Glycolysis/gluconeogenesis,61.265938184703295,-9.727158050191402,6,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Pyruvate metabolism,56.019978535457426,18.673326178485812,3,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Citric acid cycle,47.188971903842884,-44.68392618827098,4,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Arginine and proline metabolism,45.71546549358702,25.904777953995122,6,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Alanine and aspartate metabolism,17.179593378170637,1.7763568394002505e-15,2,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Urea cycle,9.905343769795946,-9.905343769795946,1,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Glycerophospholipid metabolism,8.589796689085317,8.589796689085317,2,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Glutamate metabolism,5.6104454252532925,5.6104454252532925,1,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Respiration,1.3155470807106342,1.3155470807106342,1,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,"Valine, leucine, and isoleucine metabolism",0.89092859802272,-0.17818571960454396,5,0
+high_fiber,Bilophila_wadsworthia_3_1_6_AGORA1_03,Nitrogen metabolism,0.41750761926198443,0.41750761926198443,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Transport, extracellular",136.6290273313576,12.320460605082008,21,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycolysis/gluconeogenesis,68.70430440795201,-7.555535136562185,14,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",50.92313857529699,50.92313857529699,7,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Valine, leucine, and isoleucine metabolism",36.74732520045611,0.0,2,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Pyruvate metabolism,28.315209604650303,24.077596232343584,5,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Citric acid cycle,19.38603640110157,19.38603640110157,4,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Pentose phosphate pathway,16.756348219484586,4.281121474871146,9,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Folate metabolism,13.947013220830302,13.947013220830302,3,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Tryptophan metabolism,11.550541050331654,11.550541050331654,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycerophospholipid metabolism,10.35331927068646,10.35331927068646,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Nucleotide interconversion,4.125583840117258,4.125583840117258,2,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Aminosugar metabolism,4.027108615855594,4.027108615855594,4,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glutamate metabolism,3.331279357435615,-1.317725049507819,2,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Purine catabolism,3.11880668615336,-3.11880668615336,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Cell wall biosynthesis,2.013554307927797,-2.220446049250313e-16,2,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Respiration,2.0,2.220446049250313e-16,2,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Methionine and cysteine metabolism,1.1104264524785386,-1.1104264524785386,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Sulfur metabolism,1.1104264524785386,1.1104264524785386,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Oxidative phosphorylation,1.006777153963899,1.006777153963899,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Others,1.0000000000000002,1.0000000000000002,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Alanine and aspartate metabolism,0.22490009081021373,0.22490009081021373,1,0
+high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Pentose and glucuronate interconversions,0.18406883999999957,0.18406883999999957,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,"Transport, extracellular",80.03764860950727,-30.979559087311006,54,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glycolysis/gluconeogenesis,42.02957306051187,9.600977357520176,11,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",19.650976702679543,0.016869474046368328,5,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pentose phosphate pathway,16.385941181985043,16.385941181985043,10,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Citric acid cycle,15.17731188466081,-10.468300729324104,5,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pyruvate metabolism,14.67619127180378,10.77376947018614,7,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glutamate metabolism,13.572990677756207,-7.736017207606846,3,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,13.16654440310166,13.085797408502986,26,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Respiration,10.994803271917107,9.006242676444966,3,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Alanine and aspartate metabolism,8.675969979540575,-7.963014338862127,6,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pyrimidine catabolism,7.306714006112143,7.25517738620685,3,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Unassigned,4.9774408097838965,4.9774408097838965,3,1
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Fatty acid synthesis,2.9019347164757927,2.9019347164757927,79,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Butanoate metabolism,2.2412140349881566,-2.2412140349881566,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Exchange/demand reaction,1.5449666215530509,1.499793350403696,10,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glycerophospholipid metabolism,1.2583811856257174,0.3736637739324738,35,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Phenylalanine metabolism,0.9473529754523204,0.9473529754523204,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Tyrosine metabolism,0.9473529754523204,-0.9473529754523204,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Miscellaneous,0.8253225216667505,0.8253225216667505,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Fatty acid oxidation,0.7661974097109312,0.7661974097109312,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Lysine metabolism,0.7552972244433873,0.4528358066003423,5,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Biotin metabolism,0.7336264252373447,0.7336264252373447,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,"Valine, leucine, and isoleucine metabolism",0.44786348984494856,0.0934138153124975,10,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Fructose and mannose metabolism,0.32291677,0.32291677,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Galactose metabolism,0.29286149616501156,0.0,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Aminosugar metabolism,0.22007428220587127,0.031683846076331665,6,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pyrimidine synthesis,0.11746440638205194,0.11746440638205194,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Urea cycle,0.0916960964294058,0.0916960964294058,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Terpenoid backbone biosynthesis,0.06593665264533886,0.06593665264533886,8,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,CoA synthesis,0.06399519878980865,0.06399519878980865,9,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Sulfur metabolism,0.059389579807879005,0.059389579807879005,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Cell wall biosynthesis,0.050522889689286005,0.050522889689286005,34,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,NAD metabolism,0.03387981112400004,0.03387981112400004,5,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Folate metabolism,0.02258654074934498,-0.0075288469164483274,4,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide salvage pathway,0.020104392848480326,0.020104392848480326,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Vitamin B12 metabolism,0.018822117291120814,0.018822117291120814,5,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Methionine and cysteine metabolism,0.011293270374672492,0.0037644234582241655,3,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Plant polysaccharide degradation,0.011156310000000001,0.011156310000000001,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Vitamin B2 metabolism,0.007528846916448327,0.007528846916448327,2,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,beta-Alanine metabolism,0.007528846916448063,0.007528846916448063,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Purine catabolism,0.0071640538627110745,-0.0071640538627110745,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Vitamin B6 metabolism,0.0037644234582241637,0.0037644234582241637,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Thiamine metabolism,0.0037644234582241633,0.0037644234582241633,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Ubiquinone and other terpenoid-quinone biosynthesis,0.0037644234582241633,-0.0037644234582241633,1,0
+high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Cholesterol metabolism,0.0017126403284503603,0.0017126403284503603,2,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,"Transport, extracellular",134.18818358490734,-24.129285629700664,35,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Pyruvate metabolism,51.22517136801048,10.571951900463729,7,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Citric acid cycle,43.601758246570775,32.688031851465034,5,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glycolysis/gluconeogenesis,24.35587261246227,17.118504728678833,10,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Methane metabolism,16.106446178512858,-5.368815392837617,3,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,"Valine, leucine, and isoleucine metabolism",14.375124037037502,-2.8750248074075015,5,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glutamate metabolism,11.298599775816932,11.298599775816932,2,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Pentose phosphate pathway,10.8165781456752,7.079473163783403,7,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Respiration,7.161711787019516,7.161711787019516,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Nucleotide interconversion,3.7158551035445537,3.7158551035445537,4,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Arginine and proline metabolism,3.0105251177583154,3.0105251177583154,3,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,NAD metabolism,3.0000000000000413,3.0000000000000413,3,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Methionine and cysteine metabolism,2.30389814414323,2.30389814414323,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,beta-Alanine metabolism,2.0432351394584423,2.0432351394584423,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Butanoate metabolism,2.043235139458442,2.043235139458442,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Pyrimidine catabolism,2.0,1.1102230246251565e-16,2,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Purine catabolism,1.857927551772274,0.9549070531461552,2,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Fructose and mannose metabolism,1.3552143779384074,1.3552143779384074,4,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Aminosugar metabolism,1.1056235860148624,1.1056235860148624,2,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Alanine and aspartate metabolism,1.0,-1.0,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Nitrogen metabolism,0.9999999999999999,0.9999999999999999,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Folate metabolism,0.5849154928495448,0.5849154928495448,3,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",0.5849154928495448,0.5849154928495448,3,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Urea cycle,0.5633545737667291,0.5633545737667291,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Histidine metabolism,0.4445850732120593,0.4445850732120593,4,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glycerophospholipid metabolism,0.11842103999999978,-0.03947367999999981,3,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glyoxylate and dicarboxylate metabolism,0.11114626830301484,0.11114626830301484,1,0
+high_fiber,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Plant polysaccharide degradation,0.0625,0.0625,1,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,"Transport, extracellular",3259.0188658375464,-968.4087073742356,37,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glycolysis/gluconeogenesis,660.9670150435653,212.72818629306465,14,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Respiration,249.43069057185178,249.43069057185178,1,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pentose phosphate pathway,185.12078709504505,-184.27604737504504,7,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Nucleotide interconversion,136.27261053676517,25.36908622373808,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pyruvate metabolism,80.05910073070383,80.05910073070383,3,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Aminosugar metabolism,14.033885769819491,8.020331461891695,5,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glycerophospholipid metabolism,3.9862988773723966,3.9862988773723966,4,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Fructose and mannose metabolism,2.85855285,2.85855285,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Purine catabolism,2.0,2.220446049250313e-16,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,NAD metabolism,1.984796172013924,1.984796172013924,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Galactose metabolism,1.8241769599998585,0.01973684,5,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Citric acid cycle,1.279693684420102,-1.279693684420102,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Alanine and aspartate metabolism,0.9847961720139156,-0.9847961720139156,1,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Vitamin B6 metabolism,0.9847961720139156,-0.9847961720139156,1,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glutamate metabolism,0.6398468422100506,0.6398468422100506,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Arginine and proline metabolism,0.6398468422100505,0.6398468422100505,2,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pentose and glucuronate interconversions,0.4223698599999999,0.4223698599999999,1,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Plant polysaccharide degradation,0.41495923999999995,0.41495923999999995,6,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Lysine metabolism,0.32381206566098797,0.32381206566098797,1,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Starch and sucrose metabolism,0.24401914000000002,0.24401914000000002,4,0
+high_fiber,Parabacteroides_merdae_ATCC_43184_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",0.16317560000247133,0.08158780000123568,4,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Glycolysis/gluconeogenesis,5.393635310651504,0.6374046092229043,8,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,"Transport, extracellular",5.366666808233993,-2.5066621264286097,13,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Glycerophospholipid metabolism,1.79965486,1.79965486,2,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Pyruvate metabolism,0.7872684623312881,-0.262422820777096,3,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Glutamate metabolism,0.5837897600627932,-0.5837897600627932,1,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Citric acid cycle,0.5837897600627926,-0.5837897600627926,1,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Alanine and aspartate metabolism,0.5837897600627925,-0.5837897600627925,1,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Lysine metabolism,0.5837897600627923,0.5837897600627923,1,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Arginine and proline metabolism,0.3856403271429089,0.12854677571430295,3,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",0.29472059254300176,0.058944118508600346,5,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Aminosugar metabolism,0.2570935514286058,0.2570935514286058,2,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Respiration,0.19282016357141796,0.19282016357141796,1,0
+high_fiber,Ruminococcus_torques_ATCC_27756_AGORA1_03,Urea cycle,0.12854677571430298,0.12854677571430298,1,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,"Transport, extracellular",9.564319098232701,-2.0380044433617366,12,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Glycolysis/gluconeogenesis,7.4011740311557705,0.9653705258029268,5,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Pentose phosphate pathway,6.114013330085208,-2.1363292191379664,9,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Alanine and aspartate metabolism,3.2179017526764224,-3.3306690738754696e-16,3,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",2.68158479389702,0.536316958779404,5,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Fructose and mannose metabolism,1.6089508763382123,1.6089508763382123,1,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Citric acid cycle,1.6089508763382114,-0.5363169587794042,3,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Respiration,1.1396735374062326,1.1396735374062326,2,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Glutamate metabolism,1.0726339175588078,1.0726339175588078,2,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Purine catabolism,1.0234715296706953,-1.0234715296706953,2,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Nucleotide interconversion,0.46480803094213746,0.23240401547106876,8,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Pyrimidine catabolism,0.11620200773553442,0.11620200773553442,2,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Oxidative phosphorylation,0.05810100386776805,0.05810100386776805,1,0
+western,Alistipes_onderdonkii_DSM_19147_AGORA1_03,Nucleotide salvage pathway,0.05810100386776711,0.05810100386776711,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Glycolysis/gluconeogenesis,510.9040608287108,167.84819941847044,11,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",424.76327278231537,-70.91980837642856,57,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Pentose phosphate pathway,195.03494015888657,195.03494015888657,8,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,125.89100583691565,65.18430487143746,27,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Alanine and aspartate metabolism,106.18957211500953,-66.73073063833269,7,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Pyruvate metabolism,53.118287639429944,31.76846266599246,4,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,"Valine, leucine, and isoleucine metabolism",17.973260645897852,3.2040935323245576,14,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Pyrimidine catabolism,17.795341554298243,0.3355607918858077,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Fatty acid synthesis,17.175638790902962,17.175638790902962,53,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Glutamate metabolism,14.23934533012242,14.054548981570017,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Exchange/demand reaction,11.08290443519271,11.08290443519271,3,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Pyrimidine synthesis,9.065451173092024,9.065451173092024,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Sulfur metabolism,8.729890381206216,8.729890381206216,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Terpenoid backbone biosynthesis,7.114659419267524,7.114659419267524,7,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Glycerophospholipid metabolism,6.701342817015527,5.592564725701107,31,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Lipopolysaccharide biosynthesis,4.897103236638686,4.897103236638686,30,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Arginine and proline metabolism,4.811604170373381,1.6038680567911274,6,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",4.336326883281268,3.246265354690405,6,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Citric acid cycle,3.988004220918233,3.988004220918233,3,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Unassigned,3.6943014783975703,3.6943014783975703,1,1
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Propanoate metabolism,3.6839463513536264,-3.6839463513536264,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Fatty acid oxidation,3.683946351353626,3.683946351353626,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Histidine metabolism,2.9282511238370494,2.3426008990696396,10,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Urea cycle,2.526691636039666,-1.1417238718987655,4,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Methionine and cysteine metabolism,2.523794390672965,2.523794390672965,4,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Phenylalanine metabolism,1.9999999999999998,0.0,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Purine synthesis,1.982312533773984,1.3966623090065742,3,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Purine catabolism,1.8022892227316607,1.6701514474523365,4,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Cell wall biosynthesis,1.7555653112478307,1.0163799170382177,13,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide salvage pathway,1.6040825598126844,1.6040825598126844,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Tyrosine metabolism,1.5541716975869813,1.5541716975869813,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Aminosugar metabolism,1.0163799170382177,1.0163799170382177,4,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Glutathione metabolism,1.005719702263929,0.994280297736071,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Respiration,0.7081844938220274,0.5479929992505259,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Folate metabolism,0.6886048655181327,0.597089629295268,5,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Ubiquinone and other terpenoid-quinone biosynthesis,0.6280887465362767,0.6280887465362767,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Galactose metabolism,0.3695926971048066,0.3695926971048066,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Pentose and glucuronate interconversions,0.2771945228286048,0.2771945228286048,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,CoA synthesis,0.19446987697358548,0.19446987697358548,9,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Cholesterol metabolism,0.1847963485524033,0.1847963485524033,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide sugar metabolism,0.1847963485524033,0.1847963485524033,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,NAD metabolism,0.10295464075072427,0.10295464075072427,5,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Squalene and cholesterol synthesis,0.09239817427620164,0.09239817427620164,1,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Vitamin B12 metabolism,0.05719702263929038,0.05719702263929038,5,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Vitamin B2 metabolism,0.02287880905571615,0.02287880905571615,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Thiamine metabolism,0.022878809055716147,0.022878809055716147,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,Vitamin B6 metabolism,0.022878809055716147,0.022878809055716147,2,0
+western,Alistipes_shahii_WAL_8301_AGORA1_03,beta-Alanine metabolism,0.022878809055715925,0.022878809055715925,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,"Transport, extracellular",104.62821592345193,5.463942545668754,21,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Citric acid cycle,44.172179539567495,-0.38867641429199407,5,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Alanine and aspartate metabolism,21.89175156263775,3.115734552298693,3,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Glycolysis/gluconeogenesis,15.35412966827629,-8.045592647529501,10,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Respiration,11.083434626183037,11.083434626183037,2,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Exchange/demand reaction,10.113950324689032,10.113950324689032,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Pyruvate metabolism,5.336525199504056,0.0,2,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Unassigned,2.668262599752028,2.668262599752028,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Glutamate metabolism,2.3940156429880064,2.3940156429880064,2,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Nucleotide interconversion,2.2373597627333672,1.3424158576400205,5,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Pentose phosphate pathway,1.5658945276400231,1.4925575906213433,11,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Sulfur metabolism,1.3791318325500177,1.3791318325500177,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Pyrimidine catabolism,1.3424158576400202,0.4474719525466734,3,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Pentose and glucuronate interconversions,0.5573079700000001,0.5573079700000001,3,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Pyrimidine synthesis,0.4474719525466734,0.4474719525466734,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Galactose metabolism,0.07449289,0.07449289,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Fructose and mannose metabolism,0.016569115528007116,0.016569115528007116,1,0
+western,Bacteroides_dorei_DSM_17855_AGORA1_03,Plant polysaccharide degradation,0.016569115528007113,0.016569115528007113,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,"Transport, extracellular",2346.4307865263004,48.096508672094686,21,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Glycolysis/gluconeogenesis,556.0783362471965,336.90872013122015,12,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Respiration,241.9643947305237,241.9643947305237,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Nucleotide interconversion,149.0800442750054,115.66543934908948,6,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",108.49183584848014,26.55748725538078,14,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Alanine and aspartate metabolism,64.16678263907593,-1.7361756142404143,4,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Glutamate metabolism,43.68796193629157,-33.86400898623204,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Citric acid cycle,43.49980749120227,-18.508267374922706,6,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pyruvate metabolism,28.262357492027345,-17.466977790653292,3,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pentose phosphate pathway,25.885092177700173,-10.354036871080002,6,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Folate metabolism,20.489321615300717,20.489321615300717,3,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Aminosugar metabolism,15.212275915217464,7.606137957608733,4,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Fructose and mannose metabolism,11.778094550124582,-8.881784197001252e-16,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Starch and sucrose metabolism,11.77809455012458,0.0,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Arginine and proline metabolism,10.430167466029014,8.212352473578122,9,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pyrimidine catabolism,8.35365123147898,8.35365123147898,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Nucleotide salvage pathway,7.765527653310088,7.765527653310088,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Cell wall biosynthesis,7.606137957608734,-4.440892098500626e-16,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Fatty acid synthesis,2.9142802539432573,1.942853502628838,6,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Unassigned,2.217814992450902,2.217814992450902,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Pyrimidine synthesis,1.6970310743943395,1.6970310743943395,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Miscellaneous,1.5946208718826556,1.5946208718826556,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Urea cycle,1.108907496225446,-1.108907496225446,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Nitrogen metabolism,1.0187830632737158,1.0187830632737158,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Fatty acid oxidation,0.971426751314419,0.971426751314419,2,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Lysine metabolism,0.959022031346381,0.5754132188078287,5,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Glycerophospholipid metabolism,0.4857133756572095,0.4857133756572095,1,0
+western,Bacteroides_xylanisolvens_XB1A_AGORA1_03,Plant polysaccharide degradation,3.206e-05,3.206e-05,1,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,"Transport, extracellular",447.2061218955145,1.5210055437364645e-14,15,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Alanine and aspartate metabolism,110.86838938951237,110.86838938951237,3,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Glycolysis/gluconeogenesis,83.29557766622645,-83.29557766622645,1,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Phenylalanine metabolism,2.799423253098803,0.9331410843662674,3,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,"Valine, leucine, and isoleucine metabolism",2.799423253098801,5.551115123125783e-17,6,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Citric acid cycle,2.332852710915668,-1.3997116265494012,3,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Pyruvate metabolism,1.8662821687325346,1.8662821687325346,2,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Tyrosine metabolism,0.9331410843662675,-0.9331410843662675,1,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Terpenoid backbone biosynthesis,0.9331410843662664,1.1102230246251565e-16,2,0
+western,Bilophila_wadsworthia_3_1_6_AGORA1_03,Miscellaneous,0.4665705421831335,0.4665705421831335,1,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Transport, extracellular",246.1954277226536,2.6684647215420028,35,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Pyruvate metabolism,162.65354995951682,29.27260587161086,8,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",91.11897041835003,91.11897041835003,7,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Folate metabolism,77.77958659616256,77.77958659616256,3,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycolysis/gluconeogenesis,68.25062906441151,39.24995319226367,8,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Alanine and aspartate metabolism,22.746607526875252,20.746607526875252,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Citric acid cycle,17.88853388182597,17.88853388182597,3,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Valine, leucine, and isoleucine metabolism",13.585386337506907,-2.3790512857200405,6,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Aminosugar metabolism,13.321554986073913,13.321554986073913,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Methionine and cysteine metabolism,11.843424151339082,-7.283325089033821,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Pentose phosphate pathway,10.337346074195702,10.337346074195702,8,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Butanoate metabolism,10.006303581743037,-5.498049823666372,3,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Sulfur metabolism,9.563374620186451,9.563374620186451,1,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Respiration,8.7100956700312,6.710095670031199,3,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Fatty acid synthesis,7.7521767027047055,-7.7521767027047055,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Tryptophan metabolism,4.001461481183584,-3.7507152215211215,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Propanoate metabolism,3.5534165130664483,3.5534165130664483,5,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glutamate metabolism,3.031434729772042,1.4768190283046208,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,NAD metabolism,2.999999999999993,2.999999999999993,3,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Arginine and proline metabolism,2.254126879038332,2.254126879038332,1,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,beta-Alanine metabolism,2.254126879038332,2.254126879038332,1,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Purine catabolism,2.000000000000001,0.0,2,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycerophospholipid metabolism,1.4277135060366786,1.4277135060366786,1,0
+western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Others,1.0000000000000002,1.0000000000000002,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,"Transport, extracellular",102.98580984273819,-47.96907029173329,59,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glycolysis/gluconeogenesis,54.135705946855914,3.010345901747535,10,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pyruvate metabolism,31.898256662481714,24.15564119415124,6,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Lysine metabolism,27.891288300591118,9.299271062148156,5,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pentose phosphate pathway,22.322398033187444,22.322398033187444,10,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",21.869876432414152,0.07076550182359964,5,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide interconversion,16.57498469139675,15.404416580695974,27,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Respiration,12.141538267937817,12.141538267937817,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Fatty acid synthesis,11.437479149526578,11.437479149526578,81,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Alanine and aspartate metabolism,11.35833227198842,-6.620352197756913,7,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pyrimidine catabolism,10.07681885606527,10.011370095154287,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Folate metabolism,9.424464140826084,-9.207972997064905,5,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Citric acid cycle,8.996423716381747,-8.982260753363585,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Butanoate metabolism,7.752176702704704,7.752176702704704,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Aminosugar metabolism,6.71031666764915,2.994899639183921,8,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Cell wall biosynthesis,4.018824220646222,0.0641613775579879,36,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Tryptophan metabolism,3.876088351352352,3.876088351352352,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glutamate metabolism,3.3704785897776444,3.3683036278265264,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glyoxylate and dicarboxylate metabolism,2.6640639940690622,2.6640639940690622,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,"Valine, leucine, and isoleucine metabolism",2.424415435410027,0.0376465543535579,15,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Exchange/demand reaction,1.9350306075983756,1.877662960506769,10,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Glycerophospholipid metabolism,1.5980770470443326,1.2184157884069564,35,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Miscellaneous,1.048115621363616,1.048115621363616,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Fatty acid oxidation,0.9730298799365946,0.9730298799365946,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Biotin metabolism,0.9316664653516936,0.9316664653516936,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Starch and sucrose metabolism,0.919862459523019,0.919862459523019,4,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Unassigned,0.6021155946841907,0.6021155946841907,1,1
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Histidine metabolism,0.49342168753180216,0.39473735002544175,10,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Galactose metabolism,0.44641138364121796,0.07449289000000002,4,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Pyrimidine synthesis,0.14917353646741355,0.14917353646741355,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Urea cycle,0.1164491560119225,0.1164491560119225,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Purine catabolism,0.10778230414203854,0.08958637087068229,3,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Purine synthesis,0.09868433750636041,0.0,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Terpenoid backbone biosynthesis,0.08373603511805199,0.08373603511805199,8,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,CoA synthesis,0.08127049218091101,0.08127049218091101,9,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Sulfur metabolism,0.07542160150573643,0.07542160150573643,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Plant polysaccharide degradation,0.07499647,0.07499647,3,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,NAD metabolism,0.04302555468402485,0.04302555468402485,5,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Nucleotide salvage pathway,0.025531507561393746,0.025531507561393746,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Vitamin B12 metabolism,0.02390308593557034,0.02390308593557034,5,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Methionine and cysteine metabolism,0.014341851561342208,0.00478061718711407,3,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Fructose and mannose metabolism,0.01363551,0.01363551,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Vitamin B2 metabolism,0.009561234374228138,0.009561234374228138,2,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,beta-Alanine metabolism,0.009561234374224618,0.009561234374224618,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Thiamine metabolism,0.004780617187114069,0.004780617187114069,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Ubiquinone and other terpenoid-quinone biosynthesis,0.004780617187114069,-0.004780617187114069,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Vitamin B6 metabolism,0.004780617187114069,0.004780617187114069,1,0
+western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,Cholesterol metabolism,0.0021749619511182328,0.0021749619511182328,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glycolysis/gluconeogenesis,73.76124667384505,22.27781004463683,13,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,"Transport, extracellular",73.26048800752505,-6.733572710444782,28,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Pyruvate metabolism,50.36519476079627,-3.927093039092662,7,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Folate metabolism,47.050085201210436,22.118212923683004,5,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",27.898219550299114,27.898219550299114,4,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Pentose phosphate pathway,13.309205093607396,-9.55024797840186,10,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Alanine and aspartate metabolism,10.304835241989128,-7.677537498043293,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glutamate metabolism,10.154835241989128,-9.988752590413108,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Citric acid cycle,9.72268269472827,9.72268269472827,3,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Fructose and mannose metabolism,5.413384706650973,5.413384706650973,6,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Nucleotide interconversion,5.21394722050127,2.7440305061973156,8,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Respiration,2.8308155374495976,2.8308155374495976,1,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Methionine and cysteine metabolism,2.7892745296056005,-2.7892745296056005,1,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Sulfur metabolism,2.7892745296056,2.7892745296056,1,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,"Valine, leucine, and isoleucine metabolism",2.627297743945835,0.0,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Purine catabolism,2.0435764754242514,2.0435764754242514,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Pyrimidine catabolism,1.999999999999987,0.0,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glyoxylate and dicarboxylate metabolism,1.6126346619729215,1.3146630819729217,3,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Nitrogen metabolism,1.0000000000000004,1.0000000000000004,1,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Glycerophospholipid metabolism,0.8702580739634479,0.27431491396344787,2,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Histidine metabolism,0.6000000000000152,0.6000000000000152,4,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Purine synthesis,0.29521907835059336,0.29521907835059336,1,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Arginine and proline metabolism,0.08304132578801014,0.08304132578801014,1,0
+western,Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03,Plant polysaccharide degradation,0.0028211699999999996,0.0028211699999999996,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,"Transport, extracellular",3259.9355173789627,-965.9257626559491,32,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glycolysis/gluconeogenesis,650.1963099034558,221.04246326118448,11,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Respiration,248.62030361222224,248.62030361222224,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pentose phosphate pathway,166.53092601649524,-166.50422451649524,7,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Nucleotide interconversion,137.21498392690015,33.44682088986527,6,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pyruvate metabolism,93.10403449247409,93.10403449247409,3,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,"Glycine, serine, alanine, and threonine metabolism",31.112135622450555,4.383841280070447,7,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Citric acid cycle,17.045608543212346,-12.5715135008703,5,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Aminosugar metabolism,9.0,5.0,5,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glutamate metabolism,5.169342257490324,-1.4734316309453217,3,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Alanine and aspartate metabolism,5.088488632193969,-5.088488632193969,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Unassigned,4.4740950423420465,4.4740950423420465,2,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glycerophospholipid metabolism,3.9826003043910543,3.9826003043910543,4,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Propanoate metabolism,2.1320499078398685,2.1320499078398685,3,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,NAD metabolism,1.995219382812886,1.995219382812886,2,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pyrimidine synthesis,1.9288089385688534,1.9288089385688534,2,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Vitamin B6 metabolism,0.995219382812886,-0.995219382812886,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pyrimidine catabolism,0.9644044692844267,0.9644044692844267,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Fructose and mannose metabolism,0.9328060934159788,0.9328060934159788,7,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Arginine and proline metabolism,0.883550843988074,0.883550843988074,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Galactose metabolism,0.7208248200002306,0.24027494000007688,3,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Glyoxylate and dicarboxylate metabolism,0.14898579,0.14898579,1,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Plant polysaccharide degradation,0.07487260447199291,0.07487260447199291,6,0
+western,Parabacteroides_merdae_ATCC_43184_AGORA1_03,Pentose and glucuronate interconversions,0.05340299999999998,0.02670149999999999,7,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,"Transport, extracellular",3.6304073028951693,-1.2101357676317195,9,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Glycolysis/gluconeogenesis,1.8186254228784864,0.30595571333886584,11,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Lysine metabolism,0.9076018257237984,0.9076018257237984,1,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Pyruvate metabolism,0.7563348547698088,0.15126697095396116,4,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Respiration,0.45380091286189955,0.45380091286189955,1,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Unassigned,0.152407561430943,0.152407561430943,1,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Citric acid cycle,0.15240756143094297,-0.15240756143094297,1,0
+western,Ruminococcus_torques_ATCC_27756_AGORA1_03,Starch and sucrose metabolism,0.0011405904769808237,0.0011405904769808237,1,0

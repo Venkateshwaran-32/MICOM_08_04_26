@@ -1,0 +1,12 @@
+section,metric,value,source_file,notes
+overall_micom_reaction_pathway_space,n_organisms,10,reaction_annotations_by_organism.csv,Unique organisms with reaction annotations.
+overall_micom_reaction_pathway_space,n_organism_specific_reaction_rows,19969,reaction_annotations_by_organism.csv,One row per organism-reaction annotation pair.
+overall_micom_reaction_pathway_space,n_unique_reaction_ids_ignore_organism,3678,reaction_annotations_by_organism.csv,Unique reaction IDs after collapsing across organisms.
+overall_micom_reaction_pathway_space,n_annotated_pathways,86,reaction_annotations_by_organism.csv,Unique pathway labels in reaction annotations.
+overall_micom_reaction_pathway_space,n_flux_rows,169170,reaction_fluxes_long_by_agegroup_diet.csv,Long-format organism-reaction flux rows across all age groups and diets.
+overall_micom_reaction_pathway_space,n_agegroup_diet_blocks,6,reaction_fluxes_long_by_agegroup_diet.csv,Unique age-group by diet runs.
+overall_micom_reaction_pathway_space,n_pathways_with_nonzero_summarized_flux,62,pathway_flux_by_agegroup_diet.csv,Unique pathways with summarized nonzero flux signal across runs.
+lysine_keyword_filtered_subset,n_rows,5698,lysine_related_fluxes_long.csv,Rows retained by lysine-related keyword filter.
+lysine_keyword_filtered_subset,n_unique_reaction_ids,204,lysine_related_fluxes_long.csv,Unique reaction IDs in the lysine-focused subset.
+lysine_keyword_filtered_subset,n_unique_organism_reaction_pairs,1256,lysine_related_fluxes_long.csv,Unique organism-reaction combinations in the lysine-focused subset.
+lysine_keyword_filtered_subset,n_pathways_touched,19,lysine_related_fluxes_long.csv,Unique pathway labels represented in the lysine-focused subset.

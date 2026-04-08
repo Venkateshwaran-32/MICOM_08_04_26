@@ -1,0 +1,25 @@
+Species-level biomass support summary
+Species: Alistipes_shahii_WAL_8301_AGORA1_03
+Diet: high_fiber
+
+Top biomass-adjacent pathways:
+- Glycolysis/gluconeogenesis: score=2.403340, share=0.325, top reaction=ENO
+- Pentose phosphate pathway: score=1.383368, share=0.187, top reaction=PPM
+- Pyruvate metabolism: score=0.666660, share=0.090, top reaction=LDH_D
+- Nucleotide interconversion: score=0.337563, share=0.046, top reaction=PUNP1
+- Glycerophospholipid metabolism: score=0.203228, share=0.028, top reaction=G3PD1
+- Valine, leucine, and isoleucine metabolism: score=0.081298, share=0.011, top reaction=VALTA
+
+Top shared metabolite supports:
+- adn[e] -> Glycolysis/gluconeogenesis: uptake=59.739818, producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, support=55.451762
+- adn[e] -> Pentose phosphate pathway: uptake=59.739818, producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, support=55.451762
+- adn[e] -> Pyruvate metabolism: uptake=59.739818, producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, support=55.451762
+- adn[e] -> Nucleotide interconversion: uptake=59.739818, producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, support=55.451762
+- adn[e] -> Glycerophospholipid metabolism: uptake=59.739818, producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, support=55.451762
+- adn[e] -> Valine, leucine, and isoleucine metabolism: uptake=59.739818, producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, support=55.451762
+- h2o[e] -> Glycolysis/gluconeogenesis: uptake=45.353571, producer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, support=31.534151
+- h2o[e] -> Pentose phosphate pathway: uptake=45.353571, producer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, support=31.534151
+- h2o[e] -> Pyruvate metabolism: uptake=45.353571, producer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, support=31.534151
+- h2o[e] -> Nucleotide interconversion: uptake=45.353571, producer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, support=31.534151
+- h2o[e] -> Glycerophospholipid metabolism: uptake=45.353571, producer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, support=31.534151
+- h2o[e] -> Valine, leucine, and isoleucine metabolism: uptake=45.353571, producer=Faecalibacterium_prausnitzii_M21_2__AGORA1_03, support=31.534151

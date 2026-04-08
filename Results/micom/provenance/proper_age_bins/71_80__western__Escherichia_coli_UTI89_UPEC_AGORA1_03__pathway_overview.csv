@@ -1,0 +1,7 @@
+age_group,diet,species,pathway,pathway_abs_flux,species_internal_abs_flux_total,species_growth_rate,pathway_flux_share,biomass_association_score,top_reaction_id,top_reaction_name,top_reaction_abs_flux
+71_80,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Nucleotide interconversion,15020.074385972099,61457.28725459813,2.1840034362591663,0.24439859058127109,0.5337673616463932,ADK1,Adenylate Kinase,1000.0
+71_80,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Valine, leucine, and isoleucine metabolism",8003.412224852663,61457.28725459813,2.1840034362591663,0.13022722906230882,0.28441671576659205,23DHMPO,"(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase",1000.0
+71_80,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Citric acid cycle,5062.141815475884,61457.28725459813,2.1840034362591663,0.0823684552574706,0.17989298932167516,ACONT,Aconitase,1000.0
+71_80,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycolysis/gluconeogenesis,3214.118209338767,61457.28725459813,2.1840034362591663,0.05229840679468475,0.11421990015047122,G6PI,alpha-D-Glucose 6-phosphate ketol-isomerase,1000.0
+71_80,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Butanoate metabolism,3037.4802077630197,61457.28725459813,2.1840034362591663,0.04942424801764677,0.10794272750506584,3HBCOAE,(S)-3-Hydroxybutanoyl-coa[c] 3-epimerase,1000.0
+71_80,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,Methionine and cysteine metabolism,3024.838294137072,61457.28725459813,2.1840034362591663,0.049218545582822786,0.10749347268056338,CYSDS,Cysteine Desulfhydrase,1000.0

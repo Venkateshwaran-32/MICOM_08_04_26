@@ -1,0 +1,11 @@
+file,status_western,growth_western,applied_exchanges_western,missing_exchanges_western,status_high_fiber,growth_high_fiber,applied_exchanges_high_fiber,missing_exchanges_high_fiber,delta_western_minus_fiber
+Parabacteroides_merdae_ATCC_43184_AGORA1.03.xml,optimal,0.8618796491943258,86,78,optimal,0.8618796491944047,86,78,-7.893685705084863e-14
+Escherichia_coli_UTI89_UPEC_AGORA1.03.xml,optimal,0.8478656697214474,98,66,optimal,0.7318184116594357,98,66,0.11604725806201166
+Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1.03.xml,optimal,0.6916960274847587,98,66,optimal,0.5915868865426266,98,66,0.10010914094213208
+Bacteroides_dorei_DSM_17855_AGORA1.03.xml,optimal,0.6369885645250893,66,98,optimal,0.6369885645250972,66,98,-7.882583474838611e-15
+Bacteroides_xylanisolvens_XB1A_AGORA1.03.xml,optimal,0.49133744782951666,72,92,optimal,0.49133744782951655,72,92,1.1102230246251565e-16
+Faecalibacterium_prausnitzii_M21_2._AGORA1.03.xml,optimal,0.35961188795354543,84,80,optimal,0.2700871100119845,84,80,0.08952477794156094
+Alistipes_shahii_WAL_8301_AGORA1.03.xml,optimal,0.2798502246935329,74,90,optimal,0.22881825330188071,74,90,0.051031971391652164
+Alistipes_onderdonkii_DSM_19147_AGORA1.03.xml,optimal,0.20581137669651256,72,92,optimal,0.18920143739711248,72,92,0.01660993929940008
+Bilophila_wadsworthia_3_1_6_AGORA1.03.xml,optimal,0.17776366160895432,66,98,optimal,0.05936932309695412,66,98,0.11839433851200021
+Ruminococcus_torques_ATCC_27756_AGORA1.03.xml,optimal,0.1132688278402748,61,103,optimal,0.05931087028829375,61,103,0.053957957551981045

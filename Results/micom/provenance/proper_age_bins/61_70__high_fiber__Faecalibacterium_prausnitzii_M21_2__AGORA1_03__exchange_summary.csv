@@ -1,0 +1,16 @@
+age_group,diet,species,shared_metabolite_id,shared_metabolite_name,reaction_id,reaction_name,flux,abs_flux,direction,medium_available_flag,exchange_class,rank_within_species
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,acald(e),acetaldehyde,ACALDt,Acetaldehyde Reversible Transport,60.67168096950772,60.67168096950772,internal,False,transport_only,1
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,acald(e),acetaldehyde,EX_acald(e),Acetaldehyde exchange,-60.67168096950772,60.67168096950772,secretion,False,transport_only,2
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,ac(e),acetate,ACt2r,Acetate Reversible Transport via Proton Symport,-47.522946598234256,47.522946598234256,internal,False,transport_only,3
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,ACt2r,Acetate Reversible Transport via Proton Symport,-47.522946598234256,47.522946598234256,internal,False,transport_only,4
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,ac(e),acetate,EX_ac(e),Acetate exchange,47.522946598234256,47.522946598234256,uptake,True,diet_uptake,5
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,for(e),Formate,EX_for(e),Formate exchange,46.26038460122156,46.26038460122156,uptake,True,diet_uptake,6
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,for(e),Formate,FORt2r,formate transport in via proton symport,-46.26038460122156,46.26038460122156,internal,False,transport_only,7
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,FORt2r,formate transport in via proton symport,-46.26038460122156,46.26038460122156,internal,False,transport_only,8
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h2o(e),Water,H2Ot,H2O Transport via Diffusion,-41.92314996264479,41.92314996264479,internal,False,transport_only,9
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h2o(e),Water,EX_h2o(e),H2O exchange,40.802463979448945,40.802463979448945,uptake,True,diet_uptake,10
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,co2(e),carbon dioxide,CO2t,CO2 Transporter via Diffusion,35.65977795646592,35.65977795646592,internal,False,transport_only,11
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,co2(e),carbon dioxide,EX_co2(e),CO2 exchange,-35.65977795646592,35.65977795646592,secretion,False,transport_only,12
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,EX_h(e),exchange reaction for proton,-12.232027639317156,12.232027639317156,secretion,True,diet_secretion,13
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,fum(e),Fumarate,EX_fum(e),exchange reaction for fumarate,-10.80560977801439,10.80560977801439,secretion,True,diet_secretion,14
+61_70,high_fiber,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,fum(e),Fumarate,FUMt2r,fumarate reversible transport via symport,10.80560977801439,10.80560977801439,internal,False,transport_only,15

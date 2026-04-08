@@ -1,0 +1,26 @@
+step,diet,species,pathway,reaction_id,reaction_name,flux,equation_in_flux_direction,incoming_from,shared_metabolites_from_previous,biomass_adjacent_flag
+1,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,PUNP1,Purine-Nucleoside Phosphorylase (Adenosine),59.26406928381983,adn[c] + pi[c] -> ade[c] + r1p[c],,,True
+2,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADK1,Adenylate Kinase,5.7001881003534125,amp[c] + atp[c] -> 2 adp[c],,,True
+3,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,NDPK3,Nucleoside-Diphosphate Kinase (ATP:CDP),2.07632303711011,atp[c] + cdp[c] -> adp[c] + ctp[c],,,True
+4,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,CYTK1,Cytidylate Kinase (CMP),2.0763230371101096,atp[c] + cmp[c] -> adp[c] + cdp[c],,,True
+5,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADNK1,Adenosine Kinase,1.1183639404831849,adn[c] + atp[c] -> adp[c] + amp[c] + h[c],,,True
+6,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,NDPK2,Nucleoside-Diphosphate Kinase (ATP:UDP),1.074746186095633,atp[c] + udp[c] -> adp[c] + utp[c],,,True
+7,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADK3,Adentylate Kinase (GTP),-0.8045098801015369,adp[c] + gdp[c] -> amp[c] + gtp[c],,,True
+8,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,GK1,Guanylate Kinase (GMP:ATP),0.563977605144502,atp[c] + gmp[c] -> adp[c] + gdp[c],,,True
+9,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,UMPK,UMP Kinase,0.5203571404383138,atp[c] + ump[c] -> adp[c] + udp[c],,,True
+10,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,CYTDK1,ATPcytidine 5-Phosphotransferase,0.3107055315392103,atp[c] + cytd[c] -> adp[c] + cmp[c] + h[c],,,True
+11,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADSS,Adenylosuccinate Synthase,0.2928251123837627,asp_L[c] + gtp[c] + imp[c] -> dcamp[c] + gdp[c] + 2 h[c] + pi[c],,,True
+12,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,NDPK4,Nucleoside-Diphosphate Kinase (ATP:dTDP),0.1446910117029478,atp[c] + dtdp[c] -> adp[c] + dttp[c],,,True
+13,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADAD,deoxycytidine kinase,0.0660688876396752,atp[c] + dcyt[c] -> adp[c] + dcmp[c] + h[c],,,True
+14,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADK9,adenylate kinase (dGTP),-0.0660688876396752,adp[c] + dgdp[c] -> amp[c] + dgtp[c],,,True
+15,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,CYTK2,Cytidylate Kinase (dCMP),0.0660688876396752,atp[c] + dcmp[c] -> adp[c] + dcdp[c],,,True
+16,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,DGK1,Deoxyguanylate Kinase (dGMP:ATP),0.0660688876396752,atp[c] + dgmp[c] -> adp[c] + dgdp[c],,,True
+17,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,NDPK7,Nucleoside-Diphosphate Kinase (ATP:dCDP),0.0660688876396752,atp[c] + dcdp[c] -> adp[c] + dctp[c],,,True
+18,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,r0456,ATP:Deoxyguanosine 5-Phosphotransferase,0.0660688876396752,atp[c] + dgsn[c] -> adp[c] + dgmp[c] + h[c],,,True
+19,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,DADNK,Deoxyadenosine Kinase,0.0522928374267279,atp[c] + dad_2[c] -> adp[c] + damp[c] + h[c],,,True
+20,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,DTMPK,DTMP Kinase,0.0522928374267279,atp[c] + dtmp[c] -> adp[c] + dtdp[c],,,True
+21,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,GK2,guanylate kinase (GMPdATP),-0.0522928374267279,dadp[c] + gdp[c] -> datp[c] + gmp[c],,,True
+22,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,TMDK1,Thymidine Kinase (ATP:Thymidine),0.0522928374267279,atp[c] + thymd[c] -> adp[c] + dtmp[c] + h[c],,,True
+23,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,r0345,ATP:AMP Phosphotransferase Ec:2.7.4.11,0.0522928374267279,atp[c] + damp[c] -> adp[c] + dadp[c],,,True
+24,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,ADK2,adenylate kinase (Inorganic triphosphate),0.0114394045278603,amp[c] + pppi[c] -> adp[c] + ppi[c],,,True
+25,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,BPNT,"3, 5-Bisphosphate Nucleotidase",0.0114394045278603,h2o[c] + pap[c] -> amp[c] + pi[c],,,True

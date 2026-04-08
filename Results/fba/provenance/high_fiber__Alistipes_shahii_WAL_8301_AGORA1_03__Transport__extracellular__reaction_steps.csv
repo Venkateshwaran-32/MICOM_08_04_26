@@ -1,0 +1,59 @@
+step,diet,species,pathway,reaction_id,reaction_name,flux,equation_in_flux_direction,incoming_from,shared_metabolites_from_previous,biomass_adjacent_flag
+1,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",D_LACt2,D-Lactate Transport via Proton Symport,-63.76064498650164,h[c] + lac_D[c] -> h[e] + lac_D[e],,,True
+2,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",ADNCNT3tc,Adenosine Transport Cnt3,59.73981773390636,adn[e] + h[e] -> adn[c] + h[c],,,True
+3,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",ADEt2r,"adenine transport in via proton symport, reversible",-59.3301381714595,ade[c] + h[c] -> ade[e] + h[e],,,True
+4,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",H2Ot,H2O Transport via Diffusion,45.35357059798225,h2o[e] -> h2o[c],,,True
+5,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",FORt2r,formate transport in via proton symport,-30.368125564922188,for[c] + h[c] -> for[e] + h[e],,,True
+6,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",ACt2r,Acetate Reversible Transport via Proton Symport,-25.342914420199328,ac[c] + h[c] -> ac[e] + h[e],,,True
+7,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",PIt6b,Transport of Orthophosphate,22.217902276346795,h[e] + pi[e] -> h[c] + pi[c],,,True
+8,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",GLYC3Pt,glycerol-3-phosphate transport in via proton symport,-19.217902276346685,glyc3p[c] + h[c] -> glyc3p[e] + h[e],,,True
+9,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",GSNt2r,Guanosine Transport in via Proton Symport Reversible,14.290241344323368,gsn[e] + h[e] -> gsn[c] + h[c],,,True
+10,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",GUAt,Transport of Guanine,-13.72392709349378,gua[c] -> gua[e],,,True
+11,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",CYTDt2r,"Cytidine Transport in via Proton Symport, Reversible",5.878773645439597,cytd[e] + h[e] -> cytd[c] + h[c],,,True
+12,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",CO2t,CO2 Transporter via Diffusion,-5.65646623595645,co2[c] -> co2[e],,,True
+13,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",URIt2r,Uridine Transport in via Proton Symport Reversible,-5.232507322014512,h[c] + uri[c] -> h[e] + uri[e],,,True
+14,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",VALt2r,L-valine reversible transport via proton symport,3.025621827903773,h[e] + val_L[e] -> h[c] + val_L[c],,,True
+15,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",ASPt2r,L-aspartate reversible transport via proton symport,2.8943445235670766,asp_L[e] + h[e] -> asp_L[c] + h[c],,,True
+16,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",GLUt2r,"L-glutamate transport via proton symport, reversible",1.843232932481308,glu_L[e] + h[e] -> glu_L[c] + h[c],,,True
+17,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",SERt2r,L-serine reversible transport via proton symport,1.762188330631173,h[e] + ser_L[e] -> h[c] + ser_L[c],,,True
+18,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",GLNt2r,L-glutamine reversible transport via proton symport,1.4718023203909256,gln_L[e] + h[e] -> gln_L[c] + h[c],,,True
+19,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",CYSt2r,L-cysteine reversible transport via proton symport,-1.3384304009668175,cys_L[c] + h[c] -> cys_L[e] + h[e],,,True
+20,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",2OBUTt2r,"2-Oxobutanoate transport via proton symport, reversible",1.207977474612587,2obut[e] + h[e] -> 2obut[c] + h[c],,,True
+21,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",METt2r,L-methionine reversible transport via proton symport,1.1261866238638178,h[e] + met_L[e] -> h[c] + met_L[c],,,True
+22,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",LYSt2r,L-lysine reversible transport via proton symport,1.0545014139940108,h[e] + lys_L[e] -> h[c] + lys_L[c],,,True
+23,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",CGLYt3_2_,Cys-Gly Transport in via Proton Symport,1.0,cgly[e] + 2 h[e] -> cgly[c] + 2 h[c],,,True
+24,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",CHORt,chorismate transport in/out via proton symport,1.0,chor[e] + h[e] -> chor[c] + h[c],,,True
+25,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",THRt2r,L-threonine reversible transport via proton symport,0.6821714869446132,h[e] + thr_L[e] -> h[c] + thr_L[c],,,True
+26,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",2DMMQ8abc,2-Demethylmenaquinone 8 uptake via ABC transporter,0.6540548949245152,2dmmq8[e] + atp[c] + h2o[c] -> 2dmmq8[c] + adp[c] + h[c] + pi[c],,,True
+27,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",SUCCt2r,succinate transport via proton symport,-0.6426154903966549,h[c] + succ[c] -> h[e] + succ[e],,,True
+28,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",MK8t,Menaquinone Secretion/ Uptake (Menaquinone 8),0.6311760858687944,mqn8[c] -> mqn8[e],,,True
+29,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",PHEt2r,L-phenylalanine reversible transport via proton symport,0.5708434644421053,h[e] + phe_L[e] -> h[c] + phe_L[c],,,True
+30,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",TTDCAt2,Tetradecanoate transport via proton symport,0.5543890456573192,h[e] + ttdca[e] -> h[c] + ttdca[c],,,True
+31,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",PHENOLt2r,Phenol reversible transport via proton symport,-0.5541716975868931,h[c] + phenol[c] -> h[e] + phenol[e],,,True
+32,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",OCDCAt2,Octadecanoate transport via proton symport,0.3146953771358808,h[e] + ocdca[e] -> h[c] + ocdca[c],,,True
+33,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",TRPt2r,L-tryptophan reversible transport via proton symport,0.1743784183833565,h[e] + trp_L[e] -> h[c] + trp_L[c],,,True
+34,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",DADNt2r,deoxyadenosine transport in via proton symport reversible,0.1183617250664031,dad_2[e] + h[e] -> dad_2[c] + h[c],,,True
+35,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",DAPabc,M-diaminopimelic acid ABC transport,0.0923981742762198,26dap_M[e] + atp[c] + h2o[c] -> 26dap_M[c] + adp[c] + h[c] + pi[c],,,True
+36,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",DCYTt2r,deoxycytidine transport in via proton symport reversible,0.0660688876396752,dcyt[e] + h[e] -> dcyt[c] + h[c],,,True
+37,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",THMDt2r,Thymidine Transport in via Proton Symport Reversible,0.0522928374267279,h[e] + thymd[e] -> h[c] + thymd[c],,,True
+38,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",FOLt,FOLt,0.0343182135835811,fol[e] + h[e] -> fol[c] + h[c],,,True
+39,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",NACt2r,Nicotinic acid transport by proton symport reversible,-0.0228788090557415,h[e] + nac[e] -> h[c] + nac[c],,,True
+40,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",RIBFLVt2r,riboflavin transport in via proton symport reversible,0.0228788090557206,h[e] + ribflv[e] -> h[c] + ribflv[c],,,True
+41,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",CAt4i,"Calcium transport via proton antiport, irreversible",0.0114394045278603,ca2[e] + h[c] -> ca2[c] + h[e],,,True
+42,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",COBALTt5,cobalt transport in/out via permease (no H+),-0.0114394045278603,cobalt2[e] -> cobalt2[c],,,True
+43,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",Cuabc,Copper transport via ABC system,0.0114394045278603,atp[c] + cu2[e] + h2o[c] -> adp[c] + cu2[c] + h[c] + pi[c],,,True
+44,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",FE2abc,iron (II) transport via ABC system,0.0114394045278603,atp[c] + fe2[e] + h2o[c] -> adp[c] + fe2[c] + h[c] + pi[c],,,True
+45,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",FE3abc,iron (III) transport via ABC system,0.0114394045278603,atp[c] + fe3[e] + h2o[c] -> adp[c] + fe3[c] + h[c] + pi[c],,,True
+46,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",HEMEti,Heme transport via ABC system,0.0114394045278603,atp[c] + h2o[c] + pheme[e] -> adp[c] + h[c] + pheme[c] + pi[c],,,True
+47,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",HKt,H+/K+ Gastric/Non-Gastric P-ATPase And ABC ATPase,0.0114394045278603,atp[c] + h2o[c] + k[e] -> adp[c] + h[e] + k[c] + pi[c],,,True
+48,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",MG2abc,magnesium transport via ABC system,0.0114394045278603,atp[c] + h2o[c] + mg2[e] -> adp[c] + h[c] + mg2[c] + pi[c],,,True
+49,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",MNt2,manganese transport in via proton symport,0.0114394045278603,h[e] + mn2[e] -> h[c] + mn2[c],,,True
+50,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",PYDXabc,Pyridoxal transport via ECF transporter,0.0114394045278603,atp[c] + h2o[c] + pydx[e] -> adp[c] + h[c] + pi[c] + pydx[c],,,True
+51,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",Q8abc,Ubiquinone-8 uptake via ABC transporter,0.0114394045278603,atp[c] + h2o[c] + q8[e] -> adp[c] + h[c] + pi[c] + q8[c],,,True
+52,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",SHEMEabc,Siroheme transport via ABC system,0.0114394045278603,atp[c] + h2o[c] + sheme[e] -> adp[c] + h[c] + pi[c] + sheme[c],,,True
+53,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",SO4t2,sulfate transport in via proton symport,0.0114394045278603,h[e] + so4[e] -> h[c] + so4[c],,,True
+54,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",SPMDabc,spermidine transport via ABC system,0.0114394045278603,atp[c] + h2o[c] + spmd[e] -> adp[c] + h[c] + pi[c] + spmd[c],,,True
+55,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",THMabc,thiamine transport via ABC system,0.0114394045278603,atp[c] + h2o[c] + thm[e] -> adp[c] + h[c] + pi[c] + thm[c],,,True
+56,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",ZNabc,zinc transport via ABC system,0.0114394045278603,atp[c] + h2o[c] + zn2[e] -> adp[c] + h[c] + pi[c] + zn2[c],,,True
+57,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",r2137,Major Facilitator(MFS) TCDB:2.A.1.14.6,0.0114394045278603,cl[e] -> cl[c],,,True
+58,high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Transport, extracellular",GTHOXti3,oxidized glutathione irreversible uniport,0.0057197022639301,gthox[e] -> gthox[c],,,True

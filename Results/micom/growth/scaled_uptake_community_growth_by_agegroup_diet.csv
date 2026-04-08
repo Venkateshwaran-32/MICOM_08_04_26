@@ -1,0 +1,13 @@
+uptake_scale,age_group,diet,community_growth_rate,n_organisms,n_growing_in_diet,applied_exchanges,missing_exchanges,note
+scaled10x,20_40,high_fiber,5.512212008428106,10,7,129,35,
+scaled10x,20_40,western,6.408984817213028,10,7,129,35,
+scaled10x,40_60,high_fiber,6.332173378466316,10,5,126,38,
+scaled10x,40_60,western,7.290833815652842,10,5,126,38,
+scaled10x,60_plus,high_fiber,7.803400222323397,10,8,128,36,
+scaled10x,60_plus,western,8.562505430554396,10,8,128,36,
+scaled5x,20_40,high_fiber,3.9633765616483245,10,7,129,35,
+scaled5x,20_40,western,4.441441006097081,10,7,129,35,
+scaled5x,40_60,high_fiber,3.955658026858633,10,5,126,38,
+scaled5x,40_60,western,4.4411622968605675,10,5,126,38,
+scaled5x,60_plus,high_fiber,4.87616967233369,10,8,128,36,
+scaled5x,60_plus,western,5.282407091405,10,8,128,36,

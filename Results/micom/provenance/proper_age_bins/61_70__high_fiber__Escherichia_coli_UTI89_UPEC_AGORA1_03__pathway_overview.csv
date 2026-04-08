@@ -1,0 +1,7 @@
+age_group,diet,species,pathway,pathway_abs_flux,species_internal_abs_flux_total,species_growth_rate,pathway_flux_share,biomass_association_score,top_reaction_id,top_reaction_name,top_reaction_abs_flux
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Nucleotide interconversion,15119.906912122467,63993.64999550497,0.1116184582340976,0.23627198812983033,0.02637231503895667,ADK1,Adenylate Kinase,1000.0
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,"Valine, leucine, and isoleucine metabolism",8008.317307150766,63993.64999550497,0.1116184582340976,0.12514237440298037,0.01396819889061487,23DHMPO,"(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase",1000.0
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Citric acid cycle,5281.520213315666,63993.64999550497,0.1116184582340976,0.08253194205497967,0.009212088127242711,ACONT,Aconitase,1000.0
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Glycolysis/gluconeogenesis,3846.5761914036716,63993.64999550497,0.1116184582340976,0.06010871690665968,0.00670924230755119,G6PI,alpha-D-Glucose 6-phosphate ketol-isomerase,1000.0
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Galactose metabolism,3000.3914508216053,63993.64999550497,0.1116184582340976,0.04688576836971103,0.0052333171785481645,GALT,Galactose-1-Phosphate Uridylyltransferase,1000.0
+61_70,high_fiber,Escherichia_coli_UTI89_UPEC_AGORA1_03,Butanoate metabolism,2996.7327593923283,63993.64999550497,0.1116184582340976,0.04682859564351813,0.005226935646997473,3HBCOAE,(S)-3-Hydroxybutanoyl-coa[c] 3-epimerase,1000.0

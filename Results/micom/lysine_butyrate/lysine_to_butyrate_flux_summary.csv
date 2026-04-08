@@ -1,0 +1,21 @@
+age_group,diet,pathway,sum_abs_flux,n_reactions
+21_40,high_fiber,Butanoate metabolism,0.0,8
+21_40,high_fiber,Lysine metabolism,0.0,5
+21_40,western,Butanoate metabolism,0.0,8
+21_40,western,Lysine metabolism,0.0,5
+41_60,high_fiber,Butanoate metabolism,0.0,4
+41_60,high_fiber,Lysine metabolism,0.0,3
+41_60,western,Butanoate metabolism,0.0,4
+41_60,western,Lysine metabolism,0.0,3
+61_70,high_fiber,Butanoate metabolism,0.0,4
+61_70,high_fiber,Lysine metabolism,0.0,3
+61_70,western,Butanoate metabolism,0.0,4
+61_70,western,Lysine metabolism,0.0,3
+71_80,high_fiber,Butanoate metabolism,93.21450656401908,8
+71_80,high_fiber,Lysine metabolism,0.0,4
+71_80,western,Butanoate metabolism,75.16925416572963,8
+71_80,western,Lysine metabolism,0.0,4
+81_plus,high_fiber,Butanoate metabolism,0.0,10
+81_plus,high_fiber,Lysine metabolism,0.0,6
+81_plus,western,Butanoate metabolism,37.835932284237515,10
+81_plus,western,Lysine metabolism,0.0,6

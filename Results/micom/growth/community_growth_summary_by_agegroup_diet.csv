@@ -1,0 +1,7 @@
+age_group,diet,status,community_growth_rate,n_organisms,n_growing_in_diet,n_not_growing_in_diet,n_growing_full_access,applied_exchanges,missing_exchanges,note
+20_40,high_fiber,optimal,1.121904103874747,7,7,0,7,129,35,
+20_40,western,optimal,1.2531514542888174,7,7,0,7,129,35,
+40_60,high_fiber,optimal,1.1312055459539274,5,5,0,5,126,38,
+40_60,western,optimal,1.266723658255517,5,5,0,5,126,38,
+60_plus,high_fiber,optimal,1.5989134323836338,8,8,0,8,128,36,
+60_plus,western,optimal,1.6775110445749282,8,8,0,8,128,36,

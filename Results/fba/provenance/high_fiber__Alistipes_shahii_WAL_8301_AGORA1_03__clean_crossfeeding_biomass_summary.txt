@@ -1,0 +1,20 @@
+Presentation-safe crossfeeding to biomass summary
+Species: Alistipes_shahii_WAL_8301_AGORA1_03
+Diet: high_fiber
+
+Crossfeeding candidates retained:
+- Parabacteroides_merdae_ATCC_43184_AGORA1_03 -> adn[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Nucleotide interconversion; support=55.452; confidence=high
+- Alistipes_onderdonkii_DSM_19147_AGORA1_03 -> gsn[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Nucleotide interconversion; support=14.290; confidence=high
+- Bacteroides_xylanisolvens_XB1A_AGORA1_03 -> cytd[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Nucleotide interconversion; support=5.879; confidence=high
+- Faecalibacterium_prausnitzii_M21_2__AGORA1_03 -> asp_L[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Alanine and aspartate metabolism; support=2.894; confidence=medium
+- Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03 -> val_L[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Valine, leucine, and isoleucine metabolism; support=2.875; confidence=medium
+- Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03 -> glu_L[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Alanine and aspartate metabolism; support=1.843; confidence=medium
+- Alistipes_onderdonkii_DSM_19147_AGORA1_03 -> gln_L[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Alanine and aspartate metabolism; support=1.472; confidence=medium
+- Bacteroides_xylanisolvens_XB1A_AGORA1_03 -> ser_L[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Alanine and aspartate metabolism; support=0.857; confidence=low
+- Bacteroides_xylanisolvens_XB1A_AGORA1_03 -> 2obut[e] -> Alistipes_shahii_WAL_8301_AGORA1_03; pathway=Valine, leucine, and isoleucine metabolism; support=0.208; confidence=low
+
+Dominant biomass-adjacent pathways:
+- Glycolysis/gluconeogenesis: score=2.403, top reaction=ENO
+- Pentose phosphate pathway: score=1.383, top reaction=PPM
+- Pyruvate metabolism: score=0.667, top reaction=LDH_D
+- Nucleotide interconversion: score=0.338, top reaction=PUNP1

@@ -1,0 +1,41 @@
+diet,age_group,pathway,sum_abs_flux,n_rows
+high_fiber,21_40,Lysine metabolism,3570.9330354682197,32
+high_fiber,21_40,Folate metabolism,1772.3120791827605,5
+high_fiber,21_40,Butanoate metabolism,0.0,8
+high_fiber,21_40,Cell wall biosynthesis,0.0904479896018759,14
+high_fiber,41_60,Lysine metabolism,3640.426442034058,23
+high_fiber,41_60,Folate metabolism,1803.0802868950545,4
+high_fiber,41_60,Butanoate metabolism,0.0,4
+high_fiber,41_60,Cell wall biosynthesis,0.1868202958461344,10
+high_fiber,61_70,Lysine metabolism,3257.8374295476087,23
+high_fiber,61_70,Folate metabolism,1615.3711001439087,4
+high_fiber,61_70,Butanoate metabolism,0.0,4
+high_fiber,61_70,Cell wall biosynthesis,0.068744994100088,10
+high_fiber,71_80,Lysine metabolism,3928.1108014542187,31
+high_fiber,71_80,Folate metabolism,1960.1287333366352,4
+high_fiber,71_80,Butanoate metabolism,93.21450656401908,8
+high_fiber,71_80,Cell wall biosynthesis,0.4718868006284806,14
+high_fiber,81_plus,Lysine metabolism,3732.239197937514,41
+high_fiber,81_plus,Folate metabolism,1858.9370885962244,5
+high_fiber,81_plus,Butanoate metabolism,0.0,10
+high_fiber,81_plus,Cell wall biosynthesis,0.9321438037527702,18
+western,21_40,Lysine metabolism,3629.94514520227,32
+western,21_40,Folate metabolism,1802.2168660954098,5
+western,21_40,Butanoate metabolism,0.0,8
+western,21_40,Cell wall biosynthesis,0.099998237684009,14
+western,41_60,Lysine metabolism,2010.0239406716528,23
+western,41_60,Folate metabolism,988.0345323203765,4
+western,41_60,Butanoate metabolism,0.0,4
+western,41_60,Cell wall biosynthesis,0.2062066447375642,10
+western,61_70,Lysine metabolism,2026.2678631377041,23
+western,61_70,Folate metabolism,1000.0,4
+western,61_70,Butanoate metabolism,0.0,4
+western,61_70,Cell wall biosynthesis,0.07818979396114681,10
+western,71_80,Lysine metabolism,1757.8340836841028,31
+western,71_80,Folate metabolism,874.9515824525557,4
+western,71_80,Butanoate metabolism,75.16925416572963,8
+western,71_80,Cell wall biosynthesis,0.5316605283570994,14
+western,81_plus,Lysine metabolism,3713.100608467685,41
+western,81_plus,Folate metabolism,1849.3448790587704,5
+western,81_plus,Butanoate metabolism,37.835932284237515,10
+western,81_plus,Cell wall biosynthesis,0.9748001097514906,18

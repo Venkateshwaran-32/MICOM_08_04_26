@@ -1,0 +1,14 @@
+Presentation-safe crossfeeding to biomass summary
+Species: Faecalibacterium_prausnitzii_M21_2__AGORA1_03
+Diet: western
+
+Crossfeeding candidates retained:
+- Alistipes_shahii_WAL_8301_AGORA1_03 -> dcyt[e] -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; pathway=Nucleotide interconversion; support=8.664; confidence=high
+- Escherichia_coli_UTI89_UPEC_AGORA1_03 -> glu_L[e] -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; pathway=Alanine and aspartate metabolism; support=2.385; confidence=medium
+- Alistipes_shahii_WAL_8301_AGORA1_03 -> ala_L[e] -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; pathway=Alanine and aspartate metabolism; support=0.292; confidence=low
+
+Dominant biomass-adjacent pathways:
+- Glycolysis/gluconeogenesis: score=0.171, top reaction=ENO
+- Pyruvate metabolism: score=0.101, top reaction=ACALD
+- Lysine metabolism: score=0.088, top reaction=L2A6OD2s
+- Pentose phosphate pathway: score=0.070, top reaction=DRPAr

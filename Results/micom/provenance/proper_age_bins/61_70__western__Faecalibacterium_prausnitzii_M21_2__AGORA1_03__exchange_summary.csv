@@ -1,0 +1,16 @@
+age_group,diet,species,shared_metabolite_id,shared_metabolite_name,reaction_id,reaction_name,flux,abs_flux,direction,medium_available_flag,exchange_class,rank_within_species
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,for(e),Formate,EX_for(e),Formate exchange,70.24449238925756,70.24449238925756,uptake,True,diet_uptake,1
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,FORt2r,formate transport in via proton symport,-70.24449238925756,70.24449238925756,internal,False,transport_only,2
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,for(e),Formate,FORt2r,formate transport in via proton symport,-70.24449238925756,70.24449238925756,internal,False,transport_only,3
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h2o(e),Water,H2Ot,H2O Transport via Diffusion,-47.72121509025945,47.72121509025945,internal,False,transport_only,4
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,ac(e),acetate,ACt2r,Acetate Reversible Transport via Proton Symport,-47.42534066533558,47.42534066533558,internal,False,transport_only,5
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,ACt2r,Acetate Reversible Transport via Proton Symport,-47.42534066533558,47.42534066533558,internal,False,transport_only,6
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,ac(e),acetate,EX_ac(e),Acetate exchange,47.42534066533558,47.42534066533558,uptake,True,diet_uptake,7
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h2o(e),Water,EX_h2o(e),H2O exchange,44.827775209543944,44.827775209543944,uptake,True,diet_uptake,8
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,co2(e),carbon dioxide,CO2t,CO2 Transporter via Diffusion,40.04776645440311,40.04776645440311,internal,False,transport_only,9
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,co2(e),carbon dioxide,EX_co2(e),CO2 exchange,-40.04776645440311,40.04776645440311,secretion,False,transport_only,10
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,acald(e),acetaldehyde,ACALDt,Acetaldehyde Reversible Transport,38.34278533820523,38.34278533820523,internal,False,transport_only,11
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,acald(e),acetaldehyde,EX_acald(e),Acetaldehyde exchange,-38.34278533820523,38.34278533820523,secretion,False,transport_only,12
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,EX_h(e),exchange reaction for proton,-20.42575055924838,20.42575055924838,secretion,True,diet_secretion,13
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,fum(e),Fumarate,EX_fum(e),exchange reaction for fumarate,-9.781047121305232,9.781047121305232,secretion,True,diet_secretion,14
+61_70,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,fum(e),Fumarate,FUMt2r,fumarate reversible transport via symport,9.781047121305232,9.781047121305232,internal,False,transport_only,15

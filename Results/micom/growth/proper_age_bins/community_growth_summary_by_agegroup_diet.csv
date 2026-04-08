@@ -1,0 +1,11 @@
+age_group,diet,status,community_growth_rate,n_organisms,n_growing_in_diet,n_not_growing_in_diet,n_growing_full_access,applied_exchanges,missing_exchanges,note
+21_40,high_fiber,optimal,1.1081941219073397,7,7,0,7,129,35,
+21_40,western,optimal,1.2399849350899566,7,7,0,7,129,35,
+41_60,high_fiber,optimal,1.14547185100828,5,5,0,5,126,38,
+41_60,western,optimal,1.282243233619527,5,5,0,5,126,38,
+61_70,high_fiber,optimal,0.9895980571828561,5,5,0,5,126,38,
+61_70,western,optimal,1.1178414255994835,5,5,0,5,126,38,
+71_80,high_fiber,optimal,1.2594034284360447,7,7,0,7,121,43,
+71_80,western,optimal,1.4182298771102544,7,7,0,7,121,43,
+81_plus,high_fiber,optimal,1.6803410567123083,9,9,0,9,130,34,
+81_plus,western,optimal,1.757225482887402,9,9,0,9,130,34,

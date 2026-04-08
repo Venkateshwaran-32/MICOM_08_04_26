@@ -1,0 +1,11 @@
+from_reaction_id,to_reaction_id,shared_metabolites,n_shared_metabolites
+GAPD,PGK,13dpg[c],1
+PGK,PGM,3pg[c],1
+ENO,PYK,pep[c],1
+PGM,ENO,2pg[c],1
+TPI,GAPD,g3p[c],1
+FBA,GAPD,g3p[c],1
+FBA,TPI,dhap[c],1
+PFK(ppi),FBA,fdp[c],1
+PFK,FBA,fdp[c],1
+PGI,PGMT,g6p[c],1

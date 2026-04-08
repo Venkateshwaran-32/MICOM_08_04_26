@@ -1,0 +1,7 @@
+diet,species,pathway,pathway_abs_flux,species_internal_abs_flux_total,species_biomass_flux_total,pathway_flux_share,biomass_association_score,top_reaction_id,top_reaction_name,top_reaction_abs_flux
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Glycolysis/gluconeogenesis,531.3259816399122,1633.4586119702576,7.3886029567966,0.325276672299051,2.4033401827257275,ENO,Enolase,97.28164880477122
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pentose phosphate pathway,305.832344919147,1633.4586119702576,7.3886029567966,0.1872299320460013,1.383367629515912,PPM,Phosphopentomutase,73.5543106281432
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Pyruvate metabolism,147.3839559537707,1633.4586119702576,7.3886029567966,0.0902281544654492,0.6666600088697185,LDH_D,D-Lactate Dehydrogenase,63.760644986501646
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Nucleotide interconversion,74.62783618830997,1633.4586119702576,7.3886029567966,0.0456870077034243,0.33756316020471,PUNP1,Purine-Nucleoside Phosphorylase (Adenosine),59.26406928381983
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,Glycerophospholipid metabolism,44.92926525729503,1633.4586119702576,7.3886029567966,0.0275056037098496,0.2032279848990709,G3PD1,Glycerol-3-Phosphate Dehydrogenase (NAD),30.222912358312794
+high_fiber,Alistipes_shahii_WAL_8301_AGORA1_03,"Valine, leucine, and isoleucine metabolism",17.973260645901398,1633.4586119702576,7.3886029567966,0.0110031931719544,0.0812982256045071,VALTA,Valine Transaminase,1.7243780181675397

@@ -1,0 +1,11 @@
+table2_taxon,status,vmh_taxon_page,strain_or_isolate,reconstruction_resource,version,format,local_file,notes
+Bacteroides xylanisolvens,exact_match,Bacteroides xylanisolvens XB1A,XB1A,AGORA,1.03,SBML,Models/vmh_agora_sbml/Bacteroides_xylanisolvens_XB1A_AGORA1.03.xml,
+Alistipes shahii,exact_match,Alistipes shahii WAL 8301,WAL 8301,AGORA,1.03,SBML,Models/vmh_agora_sbml/Alistipes_shahii_WAL_8301_AGORA1.03.xml,
+Klebsiella pneumoniae,exact_match,Klebsiella pneumoniae pneumoniae MGH78578,MGH78578,AGORA,1.03,SBML,Models/vmh_agora_sbml/Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1.03.xml,
+Parabacteroides merdae,exact_match,Parabacteroides merdae ATCC 43184,ATCC 43184,AGORA,1.03,SBML,Models/vmh_agora_sbml/Parabacteroides_merdae_ATCC_43184_AGORA1.03.xml,
+Bacteroides dorei,exact_match,Bacteroides dorei DSM 17855,DSM 17855,AGORA,1.03,SBML,Models/vmh_agora_sbml/Bacteroides_dorei_DSM_17855_AGORA1.03.xml,
+Alistipes onderdonkii,exact_match,Alistipes onderdonkii DSM 19147,DSM 19147,AGORA,1.03,SBML,Models/vmh_agora_sbml/Alistipes_onderdonkii_DSM_19147_AGORA1.03.xml,
+Escherichia coli,exact_match,Escherichia coli UTI89 (UPEC),UTI89,AGORA,1.03,SBML,Models/vmh_agora_sbml/Escherichia_coli_UTI89_UPEC_AGORA1.03.xml,Used as the Escherichia representative; Escherichia unclassified excluded per PI.
+Bilophila unclassified,proxy_used,Bilophila wadsworthia 3_1_6,3_1_6,AGORA,1.03,SBML,Models/vmh_agora_sbml/Bilophila_wadsworthia_3_1_6_AGORA1.03.xml,Proxy for Bilophila unclassified per PI.
+Ruminococcus torques,exact_match,Ruminococcus torques ATCC 27756,ATCC 27756,AGORA,1.03,SBML,Models/vmh_agora_sbml/Ruminococcus_torques_ATCC_27756_AGORA1.03.xml,
+Faecalibacterium prausnitzii,exact_match,Faecalibacterium prausnitzii M21/2,M21/2,AGORA,1.03,SBML,Models/vmh_agora_sbml/Faecalibacterium_prausnitzii_M21_2._AGORA1.03.xml,

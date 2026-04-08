@@ -1,0 +1,20 @@
+MICOM provenance summary
+Tradeoff fraction: 0.5
+Age group: 81_plus
+Diet: high_fiber
+Species: Faecalibacterium_prausnitzii_M21_2__AGORA1_03
+Top pathway: Nucleotide interconversion
+Species growth rate: 1.999056
+Anchor metabolite: hxan(e) (Hypoxanthine)
+Anchor uptake flux: 2.180618
+Likely origin: mixed_medium_plus_crossfeeding
+Crossfeeding support score: 2.180618
+Top producer species: Parabacteroides_merdae_ATCC_43184_AGORA1_03
+Top producer flux: 10.709142
+
+Top crossfeeding candidates:
+- Parabacteroides_merdae_ATCC_43184_AGORA1_03 -> hxan(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=2.180618; origin=mixed_medium_plus_crossfeeding
+- Alistipes_shahii_WAL_8301_AGORA1_03 -> glu_L(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=29.528556; origin=mixed_medium_plus_crossfeeding
+- Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1_03 -> glu_L(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=29.528556; origin=mixed_medium_plus_crossfeeding
+- Bacteroides_dorei_DSM_17855_AGORA1_03 -> glu_L(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=29.528556; origin=mixed_medium_plus_crossfeeding
+- Alistipes_shahii_WAL_8301_AGORA1_03 -> ura(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=24.144476; origin=mixed_medium_plus_crossfeeding

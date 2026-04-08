@@ -1,0 +1,11 @@
+file,status,growth_rate,objective
+Escherichia_coli_UTI89_UPEC_AGORA1.03.xml,optimal,128.36260114026356,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Parabacteroides_merdae_ATCC_43184_AGORA1.03.xml,optimal,109.07101336720956,1.0*biomass536 - 1.0*biomass536_reverse_50d4e
+Klebsiella_pneumoniae_pneumoniae_MGH78578_AGORA1.03.xml,optimal,107.79518788397289,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Alistipes_shahii_WAL_8301_AGORA1.03.xml,optimal,87.84490972403758,1.0*biomass399 - 1.0*biomass399_reverse_eee47
+Bacteroides_xylanisolvens_XB1A_AGORA1.03.xml,optimal,87.44309002245893,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Alistipes_onderdonkii_DSM_19147_AGORA1.03.xml,optimal,86.59909808122345,1.0*biomass419 - 1.0*biomass419_reverse_b104e
+Bacteroides_dorei_DSM_17855_AGORA1.03.xml,optimal,78.15364636427067,1.0*biomass536 - 1.0*biomass536_reverse_50d4e
+Bilophila_wadsworthia_3_1_6_AGORA1.03.xml,optimal,76.97244082962104,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Ruminococcus_torques_ATCC_27756_AGORA1.03.xml,optimal,70.09805037077618,1.0*biomass525 - 1.0*biomass525_reverse_5c178
+Faecalibacterium_prausnitzii_M21_2._AGORA1.03.xml,optimal,60.65742112217209,1.0*biomass224 - 1.0*biomass224_reverse_c48a3

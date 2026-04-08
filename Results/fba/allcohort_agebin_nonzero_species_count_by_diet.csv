@@ -1,0 +1,11 @@
+age_group,diet,n_nonzero_species
+21_40,high_fiber,1
+21_40,western,1
+41_60,high_fiber,2
+41_60,western,2
+61_70,high_fiber,1
+61_70,western,1
+71_80,high_fiber,2
+71_80,western,2
+81_90,high_fiber,2
+81_90,western,2

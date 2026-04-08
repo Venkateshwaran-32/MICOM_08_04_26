@@ -1,0 +1,20 @@
+MICOM provenance summary
+Tradeoff fraction: 0.5
+Age group: 71_80
+Diet: high_fiber
+Species: Faecalibacterium_prausnitzii_M21_2__AGORA1_03
+Top pathway: Nucleotide interconversion
+Species growth rate: 1.024524
+Anchor metabolite: hxan(e) (Hypoxanthine)
+Anchor uptake flux: 1.176499
+Likely origin: direct_from_medium
+Crossfeeding support score: 0.000000
+Top producer species: none
+Top producer flux: 0.000000
+
+Top crossfeeding candidates:
+- none -> hxan(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=0.000000; origin=direct_from_medium
+- Bacteroides_xylanisolvens_XB1A_AGORA1_03 -> ura(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=10.239645; origin=mixed_medium_plus_crossfeeding
+- Ruminococcus_torques_ATCC_27756_AGORA1_03 -> ura(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=1.004844; origin=mixed_medium_plus_crossfeeding
+- Bacteroides_dorei_DSM_17855_AGORA1_03 -> glu_L(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=2.721646; origin=mixed_medium_plus_crossfeeding
+- none -> rbflvrd(e) -> Faecalibacterium_prausnitzii_M21_2__AGORA1_03; support=0.000000; origin=internal_only

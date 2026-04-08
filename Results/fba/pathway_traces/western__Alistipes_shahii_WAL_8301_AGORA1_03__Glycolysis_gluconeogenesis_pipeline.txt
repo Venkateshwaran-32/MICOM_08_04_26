@@ -1,0 +1,63 @@
+Diet: western
+Species: Alistipes_shahii_WAL_8301_AGORA1_03
+Pathway: Glycolysis/gluconeogenesis
+
+Stepwise reaction pipeline
+This ordering is based on metabolite connectivity within the active pathway reactions.
+It is a practical trace, not a claim of unique biochemical order.
+
+Step 1: PFK(ppi) (Pyrophosphate--fructose 6-phosphate 1-phosphotransferase, beta subunit (EC 2.7.1.90))
+  Flux: 11.215721
+  Direction used in solution: f6p[c] + ppi[c] -> fdp[c] + h[c] + pi[c]
+
+Step 2: FBA (Fructose-Bisphosphate Aldolase)
+  Flux: 16.329338
+  Connected from: PFK(ppi)
+  Shared intermediate(s): fdp[c]
+  Direction used in solution: fdp[c] -> dhap[c] + g3p[c]
+
+Step 3: GAPD (Glyceraldehyde-3-Phosphate Dehydrogenase)
+  Flux: 85.786588
+  Connected from: TPI
+  Shared intermediate(s): g3p[c]
+  Direction used in solution: g3p[c] + nad[c] + pi[c] -> 13dpg[c] + h[c] + nadh[c]
+
+Step 4: PGK (Phosphoglycerate Kinase)
+  Flux: -85.786588
+  Connected from: GAPD
+  Shared intermediate(s): 13dpg[c]
+  Direction used in solution: 13dpg[c] + adp[c] -> 3pg[c] + atp[c]
+
+Step 5: PGM (Phosphoglycerate Mutase)
+  Flux: -84.817361
+  Connected from: PGK
+  Shared intermediate(s): 3pg[c]
+  Direction used in solution: 3pg[c] -> 2pg[c]
+
+Step 6: ENO (Enolase)
+  Flux: 84.817361
+  Connected from: PGM
+  Shared intermediate(s): 2pg[c]
+  Direction used in solution: 2pg[c] -> h2o[c] + pep[c]
+
+Step 7: PYK (Pyruvate Kinase)
+  Flux: 100.331311
+  Connected from: ENO
+  Shared intermediate(s): pep[c]
+  Direction used in solution: adp[c] + h[c] + pep[c] -> atp[c] + pyr[c]
+
+Step 8: TPI (Triose-Phosphate Isomerase)
+  Flux: 35.782195
+  Direction used in solution: dhap[c] -> g3p[c]
+
+Step 9: PFK (Phosphofructokinase)
+  Flux: 5.113617
+  Direction used in solution: atp[c] + f6p[c] -> adp[c] + fdp[c] + h[c]
+
+Step 10: PGI (Glucose-6-Phosphate Isomerase)
+  Flux: -0.461991
+  Direction used in solution: f6p[c] -> g6p[c]
+
+Step 11: PGMT (Phosphoglucomutase)
+  Flux: -0.461991
+  Direction used in solution: g6p[c] -> g1p[c]

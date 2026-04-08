@@ -1,0 +1,16 @@
+age_group,diet,species,shared_metabolite_id,shared_metabolite_name,reaction_id,reaction_name,flux,abs_flux,direction,medium_available_flag,exchange_class,rank_within_species
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h2o(e),Water,H2Ot,H2O Transport via Diffusion,-255.8476459938736,255.8476459938736,internal,False,transport_only,1
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h2o(e),Water,EX_h2o(e),H2O exchange,246.02369156980265,246.02369156980265,uptake,True,diet_uptake,2
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,acald(e),acetaldehyde,ACALDt,Acetaldehyde Reversible Transport,-168.00399794857765,168.00399794857765,internal,False,transport_only,3
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,acald(e),acetaldehyde,EX_acald(e),Acetaldehyde exchange,168.00399794857765,168.00399794857765,uptake,False,transport_only,4
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,asp_L(e),L-aspartate(1-),ASPt2r,L-aspartate reversible transport via proton symport,-116.21080361411056,116.21080361411056,internal,False,transport_only,5
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,ASPt2r,L-aspartate reversible transport via proton symport,-116.21080361411056,116.21080361411056,internal,False,transport_only,6
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,asp_L(e),L-aspartate(1-),EX_asp_L(e),L-Aspartate exchange,116.21080361411056,116.21080361411056,uptake,True,diet_uptake,7
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,lac_D(e),(R)-lactate,EX_lac_D(e),D-lactate exchange,-100.0,100.0,secretion,False,transport_only,8
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,EX_h(e),exchange reaction for proton,-100.0,100.0,secretion,True,diet_secretion,9
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,ac(e),acetate,EX_ac(e),Acetate exchange,-100.0,100.0,secretion,True,diet_secretion,10
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,D_LACt2,D-Lactate Transport via Proton Symport,100.0,100.0,internal,False,transport_only,11
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,h(e),proton,ACt2r,Acetate Reversible Transport via Proton Symport,100.0,100.0,internal,False,transport_only,12
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,ac(e),acetate,ACt2r,Acetate Reversible Transport via Proton Symport,100.0,100.0,internal,False,transport_only,13
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,lac_D(e),(R)-lactate,D_LACt2,D-Lactate Transport via Proton Symport,100.0,100.0,internal,False,transport_only,14
+71_80,western,Faecalibacterium_prausnitzii_M21_2__AGORA1_03,nh4(e),Ammonium,EX_nh4(e),Ammonia exchange,-73.3741508061107,73.3741508061107,secretion,False,transport_only,15

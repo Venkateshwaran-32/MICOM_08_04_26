@@ -1,0 +1,26 @@
+Species: Alistipes_shahii_WAL_8301_AGORA1_03
+Diet: high_fiber
+Anchor metabolite: adn[e]
+Selected pathway: Nucleotide interconversion
+
+Top connector fluxes for the species:
+- h[e] (proton): secretion, flux=110.192040
+- lac_D[e] ((R)-lactate): secretion, flux=63.760645
+- adn[e] (Adenosine): uptake, flux=-59.739818
+- ade[e] (Adenine): secretion, flux=56.451762
+- h2o[e] (Water): uptake, flux=-45.353571
+- ac[e] (acetate): secretion, flux=25.342914
+- pi[e] (hydrogenphosphate): uptake, flux=-22.217902
+- glyc3p[e] (Glycerol 3-phosphate): secretion, flux=19.217902
+
+Cross-feeding candidates for the anchor metabolite:
+- producer=Parabacteroides_merdae_ATCC_43184_AGORA1_03, consumer=Alistipes_shahii_WAL_8301_AGORA1_03, score=55.451762
+- producer=Bacteroides_xylanisolvens_XB1A_AGORA1_03, consumer=Alistipes_shahii_WAL_8301_AGORA1_03, score=6.858373
+
+Provenance edge roles included:
+- environment_exchange
+- shared_pool_secretion
+- crossfeeding_candidate
+- shared_pool_uptake
+- internal_processing
+- biomass_adjacent

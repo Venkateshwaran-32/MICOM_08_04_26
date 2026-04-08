@@ -1,0 +1,538 @@
+Subject ID,Age (in years),Gender,Ethnicity,Cohort,Sequencer,age_group
+MBS1215,80,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1216,79,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1217,79,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1218,80,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1219,87,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1220,80,Male,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1221,78,Male,Malay,SG90,Illumina HiSeq 2500,71_80
+MBS1222,78,Male,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1223,79,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1224,79,Male,Malay,SG90,Illumina HiSeq 2500,71_80
+MBS1225,77,Female,Malay,SG90,Illumina HiSeq 2500,71_80
+MBS1226,78,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1227,79,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1228,77,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1229,80,Male,Malay,SG90,Illumina HiSeq 2500,71_80
+MBS1230,80,Male,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1231,80,Female,Chinese,SG90,Illumina HiSeq 2500,71_80
+MBS1232,88,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1233,84,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1234,91,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1235,84,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1236,87,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1237,86,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1238,87,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1239,85,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1240,91,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1241,87,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1242,90,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1243,89,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1244,86,Male,Malay,SG90,Illumina HiSeq 2500,81_plus
+MBS1245,86,Female,Malay,SG90,Illumina HiSeq 2500,81_plus
+MBS1246,86,Male,Indian,SG90,Illumina HiSeq 2500,81_plus
+MBS1247,86,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1248,91,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1249,89,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1250,88,Female,Indian,SG90,Illumina HiSeq 2500,81_plus
+MBS1251,88,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1252,90,Female,Indian,SG90,Illumina HiSeq 2500,81_plus
+MBS1253,87,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1254,89,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1255,86,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1256,92,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1257,86,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1258,86,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1259,85,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1260,96,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1261,87,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1262,87,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1263,85,Male,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1264,88,Female,Chinese,SG90,Illumina HiSeq 2500,81_plus
+MBS1433,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1434,91,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1435,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1436,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1437,85,Female,Indian,SG90,Illumina HiSeq X,81_plus
+MBS1438,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1439,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1440,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1441,93,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1442,93,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1443,85,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1444,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1445,86,Male,Others,SG90,Illumina HiSeq X,81_plus
+MBS1446,90,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1447,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1448,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1449,90,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1450,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1451,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1452,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1453,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1454,85,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1455,85,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1456,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1457,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1458,94,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1459,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1460,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1461,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1462,86,Female,Indian,SG90,Illumina HiSeq X,81_plus
+MBS1463,85,Female,Others,SG90,Illumina HiSeq X,81_plus
+MBS1464,85,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1465,85,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1466,91,Female,Others,SG90,Illumina HiSeq X,81_plus
+MBS1467,92,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1468,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1469,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1470,90,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1471,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1472,90,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1473,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1474,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1475,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1476,85,Male,Others,SG90,Illumina HiSeq X,81_plus
+MBS1477,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1478,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1479,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1480,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1481,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1482,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1483,90,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1484,93,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1485,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1486,85,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1487,93,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1488,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1489,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1490,94,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1491,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1492,85,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1493,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1494,85,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1495,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1496,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1497,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1498,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1499,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1500,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1501,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1502,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1503,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1504,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1505,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1506,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1507,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1508,91,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1509,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1510,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1511,96,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1512,87,Female,Others,SG90,Illumina HiSeq X,81_plus
+MBS1513,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1514,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1515,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1516,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1517,90,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1518,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1519,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1520,90,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1521,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1522,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1523,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1524,90,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1525,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1526,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1527,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1528,92,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1529,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1530,88,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1531,94,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1532,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1533,90,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1534,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1535,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1536,94,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1537,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1538,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1539,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1540,91,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1541,91,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1542,90,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1543,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1544,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1545,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1546,87,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1547,96,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1548,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1549,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1550,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1551,96,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1552,88,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1553,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1554,91,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1555,95,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1556,91,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1557,90,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1558,90,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1559,93,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1560,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1561,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1562,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1563,87,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1564,86,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1565,86,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1566,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1567,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1568,89,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1569,83,Female,Malay,SG90,Illumina HiSeq X,81_plus
+MBS1570,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1571,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1572,82,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1573,80,Female,Chinese,SG90,Illumina HiSeq X,71_80
+MBS1574,85,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1575,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1576,80,Female,Chinese,SG90,Illumina HiSeq X,71_80
+MBS1577,81,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1578,82,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1579,81,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1580,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1581,81,Male,Others,SG90,Illumina HiSeq X,81_plus
+MBS1582,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1583,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1584,79,Female,Chinese,SG90,Illumina HiSeq X,71_80
+MBS1585,80,Female,Chinese,SG90,Illumina HiSeq X,71_80
+MBS1586,82,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1587,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1588,81,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1589,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1590,89,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1591,81,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1592,81,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1593,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1594,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1595,82,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1596,81,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1597,84,Male,Indian,SG90,Illumina HiSeq X,81_plus
+MBS1598,79,Female,Chinese,SG90,Illumina HiSeq X,71_80
+MBS1599,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1600,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1601,82,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1602,82,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1603,81,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1604,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1605,83,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1606,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1607,81,Male,Indian,SG90,Illumina HiSeq X,81_plus
+MBS1608,84,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1609,80,Female,Chinese,SG90,Illumina HiSeq X,71_80
+MBS1610,83,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1611,82,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1612,81,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1613,81,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1614,81,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1615,81,Female,Chinese,SG90,Illumina HiSeq X,81_plus
+MBS1616,84,Male,Chinese,SG90,Illumina HiSeq X,81_plus
+MBE033,58,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MBE034,56,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MBE035,60,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MBE036,69,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MBE037,59,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MBE038,64,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MBE039,59,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MBH207,68,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MBH208,62,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MBM135,73,Male,Chinese,SPMP,Illumina HiSeq4K,71_80
+MBM137,57,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MBM139,64,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS226,56,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS229,57,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS231,59,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS232,65,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS234,53,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS235,60,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS236,58,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS238,60,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS239,63,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS240,62,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS243,63,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS244,67,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS246,61,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS247,63,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS248,67,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS249,58,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS250,60,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS251,62,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS253,61,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS255,58,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS257,60,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS258,55,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS259,60,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS266,55,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS267,53,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS269,62,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS276,61,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS277,61,Female,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS279,60,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS282,67,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+MHS283,74,Female,Chinese,SPMP,Illumina HiSeq4K,71_80
+MHS285,54,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS286,60,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS287,59,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS288,60,Male,Chinese,SPMP,Illumina HiSeq4K,41_60
+MHS289,56,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+WFC023,61,Male,Chinese,SPMP,Illumina HiSeq4K,61_70
+WFC024,57,Female,Chinese,SPMP,Illumina HiSeq4K,41_60
+CON001,21,Female,Chinese,T2D,Illumina GA,21_40
+CON002,53,Female,Chinese,T2D,Illumina GA,41_60
+CON003,61,Female,Chinese,T2D,Illumina GA,61_70
+CON004,55,Female,Chinese,T2D,Illumina GA,41_60
+CON005,53,Female,Chinese,T2D,Illumina GA,41_60
+CON006,52,Female,Chinese,T2D,Illumina GA,41_60
+CON007,55,Female,Chinese,T2D,Illumina GA,41_60
+CON008,56,Female,Chinese,T2D,Illumina GA,41_60
+CON009,46,Female,Chinese,T2D,Illumina GA,41_60
+CON010,42,Female,Chinese,T2D,Illumina GA,41_60
+CON011,49,Female,Chinese,T2D,Illumina GA,41_60
+CON012,44,Female,Chinese,T2D,Illumina GA,41_60
+CON013,48,Female,Chinese,T2D,Illumina GA,41_60
+CON014,39,Female,Chinese,T2D,Illumina GA,21_40
+CON015,42,Female,Chinese,T2D,Illumina GA,41_60
+CON016,28,Male,Chinese,T2D,Illumina GA,21_40
+CON017,27,Male,Chinese,T2D,Illumina GA,21_40
+CON018,28,Male,Chinese,T2D,Illumina GA,21_40
+CON019,48,Male,Chinese,T2D,Illumina GA,41_60
+CON020,40,Male,Chinese,T2D,Illumina GA,21_40
+CON021,57,Male,Chinese,T2D,Illumina GA,41_60
+CON022,53,Male,Chinese,T2D,Illumina GA,41_60
+CON023,50,Male,Chinese,T2D,Illumina GA,41_60
+CON026,40,Male,Chinese,T2D,Illumina GA,21_40
+CON027,45,Male,Chinese,T2D,Illumina GA,41_60
+CON028,53,Male,Chinese,T2D,Illumina GA,41_60
+CON029,54,Male,Chinese,T2D,Illumina GA,41_60
+CON031,56,Male,Chinese,T2D,Illumina GA,41_60
+CON032,26,Female,Chinese,T2D,Illumina GA,21_40
+CON033,27,Female,Chinese,T2D,Illumina GA,21_40
+CON034,27,Female,Chinese,T2D,Illumina GA,21_40
+CON035,27,Female,Chinese,T2D,Illumina GA,21_40
+CON036,29,Female,Chinese,T2D,Illumina GA,21_40
+CON037,28,Female,Chinese,T2D,Illumina GA,21_40
+CON038,27,Female,Chinese,T2D,Illumina GA,21_40
+CON039,53,Female,Chinese,T2D,Illumina GA,41_60
+CON040,44,Female,Chinese,T2D,Illumina GA,41_60
+CON041,56,Female,Chinese,T2D,Illumina GA,41_60
+CON042,54,Female,Chinese,T2D,Illumina GA,41_60
+CON043,41,Female,Chinese,T2D,Illumina GA,41_60
+CON044,50,Female,Chinese,T2D,Illumina GA,41_60
+CON045,54,Female,Chinese,T2D,Illumina GA,41_60
+CON046,67,Female,Chinese,T2D,Illumina GA,61_70
+CON047,45,Female,Chinese,T2D,Illumina GA,41_60
+CON048,52,Female,Chinese,T2D,Illumina GA,41_60
+CON049,58,Female,Chinese,T2D,Illumina GA,41_60
+CON050,60,Female,Chinese,T2D,Illumina GA,41_60
+CON051,61,Female,Chinese,T2D,Illumina GA,61_70
+CON052,43,Female,Chinese,T2D,Illumina GA,41_60
+CON053,60,Female,Chinese,T2D,Illumina GA,41_60
+CON054,52,Female,Chinese,T2D,Illumina GA,41_60
+CON055,56,Female,Chinese,T2D,Illumina GA,41_60
+CON056,50,Female,Chinese,T2D,Illumina GA,41_60
+CON057,41,Female,Chinese,T2D,Illumina GA,41_60
+CON058,47,Female,Chinese,T2D,Illumina GA,41_60
+CON059,49,Female,Chinese,T2D,Illumina GA,41_60
+CON060,44,Female,Chinese,T2D,Illumina GA,41_60
+CON061,48,Female,Chinese,T2D,Illumina GA,41_60
+CON062,47,Female,Chinese,T2D,Illumina GA,41_60
+CON063,35,Female,Chinese,T2D,Illumina GA,21_40
+CON064,46,Female,Chinese,T2D,Illumina GA,41_60
+CON065,46,Female,Chinese,T2D,Illumina GA,41_60
+CON066,45,Female,Chinese,T2D,Illumina GA,41_60
+CON067,45,Female,Chinese,T2D,Illumina GA,41_60
+CON068,41,Female,Chinese,T2D,Illumina GA,41_60
+CON069,46,Female,Chinese,T2D,Illumina GA,41_60
+CON070,48,Female,Chinese,T2D,Illumina GA,41_60
+CON071,64,Female,Chinese,T2D,Illumina GA,61_70
+CON072,41,Female,Chinese,T2D,Illumina GA,41_60
+CON073,46,Female,Chinese,T2D,Illumina GA,41_60
+CON074,41,Female,Chinese,T2D,Illumina GA,41_60
+CON075,34,Female,Chinese,T2D,Illumina GA,21_40
+CON076,43,Female,Chinese,T2D,Illumina GA,41_60
+CON077,41,Female,Chinese,T2D,Illumina GA,41_60
+CON078,41,Female,Chinese,T2D,Illumina GA,41_60
+CON079,60,Female,Chinese,T2D,Illumina GA,41_60
+CON080,56,Female,Chinese,T2D,Illumina GA,41_60
+CON081,52,Male,Chinese,T2D,Illumina GA,41_60
+CON082,53,Male,Chinese,T2D,Illumina GA,41_60
+CON083,60,Male,Chinese,T2D,Illumina GA,41_60
+CON084,69,Male,Chinese,T2D,Illumina GA,61_70
+CON085,39,Male,Chinese,T2D,Illumina GA,21_40
+CON086,67,Male,Chinese,T2D,Illumina GA,61_70
+CON087,38,Male,Chinese,T2D,Illumina GA,21_40
+CON088,56,Male,Chinese,T2D,Illumina GA,41_60
+CON089,55,Male,Chinese,T2D,Illumina GA,41_60
+CON090,47,Male,Chinese,T2D,Illumina GA,41_60
+CON091,50,Male,Chinese,T2D,Illumina GA,41_60
+CON092,70,Male,Chinese,T2D,Illumina GA,61_70
+CON093,40,Male,Chinese,T2D,Illumina GA,21_40
+CON095,54,Male,Chinese,T2D,Illumina GA,41_60
+CON096,59,Male,Chinese,T2D,Illumina GA,41_60
+CON097,57,Male,Chinese,T2D,Illumina GA,41_60
+CON098,62,Male,Chinese,T2D,Illumina GA,61_70
+CON099,55,Male,Chinese,T2D,Illumina GA,41_60
+CON101,42,Male,Chinese,T2D,Illumina GA,41_60
+CON104,55,Male,Chinese,T2D,Illumina GA,41_60
+CON105,52,Male,Chinese,T2D,Illumina GA,41_60
+CON106,46,Male,Chinese,T2D,Illumina GA,41_60
+CON107,44,Male,Chinese,T2D,Illumina GA,41_60
+NLF001,31,Female,Chinese,T2D,Illumina GA,21_40
+NLF002,34,Female,Chinese,T2D,Illumina GA,21_40
+NLF005,44,Female,Chinese,T2D,Illumina GA,41_60
+NLF006,27,Female,Chinese,T2D,Illumina GA,21_40
+NLF007,39,Female,Chinese,T2D,Illumina GA,21_40
+NLF008,26,Female,Chinese,T2D,Illumina GA,21_40
+NLF009,27,Female,Chinese,T2D,Illumina GA,21_40
+NLF010,35,Female,Chinese,T2D,Illumina GA,21_40
+NLF011,25,Female,Chinese,T2D,Illumina GA,21_40
+NLF012,27,Female,Chinese,T2D,Illumina GA,21_40
+NLF013,32,Female,Chinese,T2D,Illumina GA,21_40
+NLF014,37,Female,Chinese,T2D,Illumina GA,21_40
+NLF015,59,Female,Chinese,T2D,Illumina GA,41_60
+NLM001,32,Male,Chinese,T2D,Illumina GA,21_40
+NLM002,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM003,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM004,24,Male,Chinese,T2D,Illumina GA,21_40
+NLM005,42,Male,Chinese,T2D,Illumina GA,41_60
+NLM006,24,Male,Chinese,T2D,Illumina GA,21_40
+NLM007,22,Male,Chinese,T2D,Illumina GA,21_40
+NLM008,22,Male,Chinese,T2D,Illumina GA,21_40
+NLM009,24,Male,Chinese,T2D,Illumina GA,21_40
+NLM010,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM015,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM016,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM017,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM021,25,Male,Chinese,T2D,Illumina GA,21_40
+NLM022,29,Male,Chinese,T2D,Illumina GA,21_40
+NLM023,38,Male,Chinese,T2D,Illumina GA,21_40
+NLM024,23,Male,Chinese,T2D,Illumina GA,21_40
+NLM026,24,Male,Chinese,T2D,Illumina GA,21_40
+NLM027,22,Male,Chinese,T2D,Illumina GA,21_40
+NLM028,21,Male,Chinese,T2D,Illumina GA,21_40
+NLM029,25,Male,Chinese,T2D,Illumina GA,21_40
+NLM031,33,Male,Chinese,T2D,Illumina GA,21_40
+NLM032,39,Male,Chinese,T2D,Illumina GA,21_40
+NOF001,45,Female,Chinese,T2D,Illumina GA,41_60
+NOF002,51,Female,Chinese,T2D,Illumina GA,41_60
+NOF004,33,Female,Chinese,T2D,Illumina GA,21_40
+NOF005,32,Female,Chinese,T2D,Illumina GA,21_40
+NOF006,35,Female,Chinese,T2D,Illumina GA,21_40
+NOF007,32,Female,Chinese,T2D,Illumina GA,21_40
+NOF008,30,Female,Chinese,T2D,Illumina GA,21_40
+NOF009,26,Female,Chinese,T2D,Illumina GA,21_40
+NOF010,40,Female,Chinese,T2D,Illumina GA,21_40
+NOF011,30,Female,Chinese,T2D,Illumina GA,21_40
+NOF012,38,Female,Chinese,T2D,Illumina GA,21_40
+NOF013,41,Female,Chinese,T2D,Illumina GA,41_60
+NOF014,42,Female,Chinese,T2D,Illumina GA,41_60
+NOM001,48,Male,Chinese,T2D,Illumina GA,41_60
+NOM002,68,Male,Chinese,T2D,Illumina GA,61_70
+NOM004,32,Male,Chinese,T2D,Illumina GA,21_40
+NOM005,46,Male,Chinese,T2D,Illumina GA,41_60
+NOM008,54,Male,Chinese,T2D,Illumina GA,41_60
+NOM009,33,Male,Chinese,T2D,Illumina GA,21_40
+NOM010,30,Male,Chinese,T2D,Illumina GA,21_40
+NOM012,32,Male,Chinese,T2D,Illumina GA,21_40
+NOM013,42,Male,Chinese,T2D,Illumina GA,41_60
+NOM014,41,Male,Chinese,T2D,Illumina GA,41_60
+NOM015,32,Male,Chinese,T2D,Illumina GA,21_40
+NOM016,37,Male,Chinese,T2D,Illumina GA,21_40
+NOM017,39,Male,Chinese,T2D,Illumina GA,21_40
+NOM018,43,Male,Chinese,T2D,Illumina GA,41_60
+NOM019,26,Male,Chinese,T2D,Illumina GA,21_40
+NOM020,24,Male,Chinese,T2D,Illumina GA,21_40
+NOM022,23,Male,Chinese,T2D,Illumina GA,21_40
+NOM023,46,Male,Chinese,T2D,Illumina GA,41_60
+NOM025,28,Male,Chinese,T2D,Illumina GA,21_40
+NOM026,52,Male,Chinese,T2D,Illumina GA,41_60
+NOM027,38,Male,Chinese,T2D,Illumina GA,21_40
+NOM028,47,Male,Chinese,T2D,Illumina GA,41_60
+MBS1124,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MBS1160,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH266,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH357,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH381,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH394,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH607,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHS142,26,Male,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH595,28,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHS120,28,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHS138,28,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MBS1163,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH257,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH359,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH375,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH396,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH574,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MHH623,38,Female,Chinese,CRE,Illumina HiSeq 2500,21_40
+MBH094,47,Male,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBS1151,47,Male,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH348,47,Male,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH374,47,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH565,47,Male,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBH069,48,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBS1116,48,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBS1150,48,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH347,48,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH372,48,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH564,48,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBH078,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBS1123,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBS1159,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH265,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH356,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH380,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH393,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH597,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHS141,52,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHH594,59,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHS119,59,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MHS137,59,Female,Chinese,CRE,Illumina HiSeq 2500,41_60
+MBH043,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MBH060,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MBH089,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MBS1141,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH336,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH366,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH552,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH616,64,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MBS1168,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH256,66,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH263,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH351,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH358,66,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH376,66,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH383,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH395,66,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH553,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH573,66,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH589,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH622,66,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH624,66,Female,Chinese,CRE,Illumina HiSeq 2500,61_70
+MBS1169,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH264,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH352,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH384,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH554,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHH590,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MHS124,69,Male,Chinese,CRE,Illumina HiSeq 2500,61_70
+MBH068,72,Female,Chinese,CRE,Illumina HiSeq 2500,71_80
+MBH095,72,Female,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH346,72,Female,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH370,72,Female,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH563,72,Female,Chinese,CRE,Illumina HiSeq 2500,71_80
+MBS1115,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MBS1152,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH260,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH344,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH373,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH392,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHH596,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80
+MHS136,77,Male,Chinese,CRE,Illumina HiSeq 2500,71_80

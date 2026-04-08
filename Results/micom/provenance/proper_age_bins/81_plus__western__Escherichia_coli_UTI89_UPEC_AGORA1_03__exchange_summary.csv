@@ -1,0 +1,16 @@
+age_group,diet,species,shared_metabolite_id,shared_metabolite_name,reaction_id,reaction_name,flux,abs_flux,direction,medium_available_flag,exchange_class,rank_within_species
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,cholate(e),Cholate,BIACt1,"Bile acid transport, cholate",-987.9994904187104,987.9994904187104,internal,False,transport_only,1
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,BIACt4,"Bile acid transport, 7-Dehydrocholate",987.9994904187104,987.9994904187104,internal,False,transport_only,2
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,BIACt1,"Bile acid transport, cholate",-987.9994904187104,987.9994904187104,internal,False,transport_only,3
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,7ocholate(e),"3alpha,12alpha-Dihydroxy-7-oxo-5beta-cholanate",BIACt4,"Bile acid transport, 7-Dehydrocholate",987.9994904187104,987.9994904187104,internal,False,transport_only,4
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,ac(e),acetate,EX_ac(e),Acetate exchange,147.52062953336815,147.52062953336815,uptake,True,diet_uptake,5
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,ac(e),acetate,ACt2r,Acetate Reversible Transport via Proton Symport,-147.52062953336815,147.52062953336815,internal,False,transport_only,6
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,ACt2r,Acetate Reversible Transport via Proton Symport,-147.52062953336815,147.52062953336815,internal,False,transport_only,7
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,for(e),Formate,EX_for(e),Formate exchange,143.2392616707651,143.2392616707651,uptake,True,diet_uptake,8
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,for(e),Formate,FORt2r,formate transport in via proton symport,-143.2392616707651,143.2392616707651,internal,False,transport_only,9
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,FORt2r,formate transport in via proton symport,-143.2392616707651,143.2392616707651,internal,False,transport_only,10
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2o(e),Water,H2Ot,H2O Transport via Diffusion,124.57583307364948,124.57583307364948,internal,False,transport_only,11
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h(e),proton,EX_h(e),exchange reaction for proton,113.39034000521973,113.39034000521973,uptake,True,diet_uptake,12
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,h2o(e),Water,EX_h2o(e),H2O exchange,-100.0,100.0,secretion,True,diet_secretion,13
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,etoh(e),ethanol,EX_etoh(e),Ethanol exchange,-100.0,100.0,secretion,False,transport_only,14
+81_plus,western,Escherichia_coli_UTI89_UPEC_AGORA1_03,asp_L(e),L-aspartate(1-),EX_asp_L(e),L-Aspartate exchange,-100.0,100.0,secretion,True,diet_secretion,15

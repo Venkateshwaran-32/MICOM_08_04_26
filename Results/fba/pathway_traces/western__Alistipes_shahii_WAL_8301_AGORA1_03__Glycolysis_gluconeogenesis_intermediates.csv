@@ -1,0 +1,9 @@
+metabolite_id,n_occurrences,produced_by,consumed_by
+13dpg[c],2,GAPD,PGK
+2pg[c],2,PGM,ENO
+3pg[c],2,PGK,PGM
+dhap[c],2,FBA,TPI
+fdp[c],3,PFK | PFK(ppi),FBA
+g3p[c],3,FBA | TPI,GAPD
+g6p[c],2,PGI,PGMT
+pep[c],2,ENO,PYK

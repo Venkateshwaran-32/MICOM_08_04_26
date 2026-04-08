@@ -1,0 +1,21 @@
+age_group,diet,reaction_step,sum_abs_flux,n_rows
+21_40,high_fiber,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,7
+21_40,high_fiber,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,7
+21_40,western,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,7
+21_40,western,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,7
+41_60,high_fiber,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,5
+41_60,high_fiber,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,5
+41_60,western,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,5
+41_60,western,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,5
+61_70,high_fiber,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,5
+61_70,high_fiber,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,5
+61_70,western,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,5
+61_70,western,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,5
+71_80,high_fiber,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),46.60725328200954,7
+71_80,high_fiber,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),46.60725328200954,7
+71_80,western,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),37.58462708286481,7
+71_80,western,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),37.58462708286481,7
+81_plus,high_fiber,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),0.0,9
+81_plus,high_fiber,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),0.0,9
+81_plus,western,Butanoate metabolism (BTCOAACCOAT: butyryl-CoA:acetate CoA-transferase),18.917966142118757,9
+81_plus,western,Butanoate metabolism (BTCOADH: crotonoyl-CoA to butyryl-CoA),18.917966142118757,9

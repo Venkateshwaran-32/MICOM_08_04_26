@@ -1,5 +1,7 @@
 # Codex Handover README
 
+![Project cover](venkatproject.png)
+
 ## TL;DR
 - Main orientation guide for understanding how the branches fit together:
   - `PIPELINE_STORY.md`
